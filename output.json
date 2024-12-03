@@ -1,0 +1,5000 @@
+[
+    {
+        "classDay1": "Sunday",
+        "classDay2": "Tuesday",
+        "classTime": "09:30 AM-10:50 AM",
+        "roomNumber": "08F-20C"
+    },
+    {
+        "classDay1": "Sunday",
+        "classDay2": "Tuesday",
+        "classTime": "02:00 PM-03:20 PM",
+        "roomNumber": "08F-20C"
+    },
+    {
+        "classDay1": "Sunday",
+        "classDay2": "Tuesday",
+        "classTime": "03:30 PM-04:50 PM",
+        "roomNumber": "08F-20C"
+    },
+    {
+        "classDay1": "Sunday",
+        "classDay2": "Tuesday",
+        "classTime": "12:30 PM-01:50 PM",
+        "roomNumber": "09G-31T"
+    },
+    {
+        "classDay1": "Sunday",
+        "classDay2": "Tuesday",
+        "classTime": "12:30 PM-01:50 PM",
+        "roomNumber": "09D-19C"
+    },
+    {
+        "classDay1": "Monday",
+        "classDay2": "Wednesday",
+        "classTime": "11:00 AM-12:20 PM",
+        "roomNumber": "08D-17C"
+    },
+    {
+        "classDay1": "Monday",
+        "classDay2": "Wednesday",
+        "classTime": "03:30 PM-04:50 PM",
+        "roomNumber": "08F-18C"
+    },
+    {
+        "classDay1": "Monday",
+        "classDay2": "Wednesday",
+        "classTime": "08:00 AM-09:20 AM",
+        "roomNumber": "08F-20C"
+    },
+    {
+        "classDay1": "Monday",
+        "classDay2": "Wednesday",
+        "classTime": "12:30 PM-01:50 PM-07A",
+        "roomNumber": "07C"
+    },
+    {
+        "classDay1": "Saturday",
+        "classDay2": "Thursday",
+        "classTime": "09:30 AM-10:50 AM",
+        "roomNumber": "08H-22C"
+    },
+    {
+        "classDay1": "Monday",
+        "classDay2": "Wednesday",
+        "classTime": "09:30 AM-10:50 AM",
+        "roomNumber": "08F-20C"
+    },
+    {
+        "classDay1": "Sunday",
+        "classDay2": "Tuesday",
+        "classTime": "08:00 AM-09:20 AM",
+        "roomNumber": "08F-20C"
+    },
+    {
+        "classDay1": "Monday",
+        "classDay2": "Wednesday",
+        "classTime": "12:30 PM-01:50 PM",
+        "roomNumber": "08F-20C"
+    },
+    {
+        "classDay1": "Saturday",
+        "classDay2": "Thursday",
+        "classTime": "02:00 PM-03:20 PM",
+        "roomNumber": "07H-28C"
+    },
+    {
+        "classDay1": "Monday",
+        "classDay2": "Wednesday",
+        "classTime": "09:30 AM-10:50 AM",
+        "roomNumber": "10D-23C"
+    },
+    {
+        "classDay1": "Sunday",
+        "classDay2": "Tuesday",
+        "classTime": "02:00 PM-03:20 PM",
+        "roomNumber": "FT11-04L"
+    },
+    {
+        "classDay1": "Monday",
+        "classDay2": "Wednesday",
+        "classTime": "12:30 PM-01:50 PM",
+        "roomNumber": "FT11-04L"
+    },
+    {
+        "classDay1": "Sunday",
+        "classDay2": "Tuesday",
+        "classTime": "12:30 PM-01:50 PM",
+        "roomNumber": "10B-18C"
+    },
+    {
+        "classDay1": "Monday",
+        "classDay2": "Wednesday",
+        "classTime": "02:00 PM-03:20 PM",
+        "roomNumber": "10B-16C"
+    },
+    {
+        "classDay1": "Sunday",
+        "classDay2": "Tuesday",
+        "classTime": "11:00 AM-12:20 PM",
+        "roomNumber": "10B-17C"
+    },
+    {
+        "classDay1": "Sunday",
+        "classDay2": "Tuesday",
+        "classTime": "02:00 PM-03:20 PM",
+        "roomNumber": "10B-16C"
+    },
+    {
+        "classDay1": "Sunday",
+        "classDay2": "Tuesday",
+        "classTime": "02:00 PM-03:20 PM",
+        "roomNumber": "10D-23C"
+    },
+    {
+        "classDay1": "Monday",
+        "classDay2": "Wednesday",
+        "classTime": "11:00 AM-12:20 PM",
+        "roomNumber": "10B-16C"
+    },
+    {
+        "classDay1": "Saturday",
+        "classDay2": "Thursday",
+        "classTime": "05:00 PM-06:20 PM",
+        "roomNumber": "10B-17C"
+    },
+    {
+        "classDay1": "Monday",
+        "classDay2": "Wednesday",
+        "classTime": "08:00 AM-09:20 AM",
+        "roomNumber": "10D-23C"
+    },
+    {
+        "classDay1": "Monday",
+        "classDay2": "Wednesday",
+        "classTime": "08:00 AM-09:20 AM",
+        "roomNumber": "07D-21C"
+    },
+    {
+        "classDay1": "Sunday",
+        "classDay2": "Tuesday",
+        "classTime": "11:00 AM-12:20 PM",
+        "roomNumber": "07H-28C"
+    },
+    {
+        "classDay1": "Monday",
+        "classDay2": "Wednesday",
+        "classTime": "12:30 PM-01:50 PM",
+        "roomNumber": "07H-28C"
+    },
+    {
+        "classDay1": "Sunday",
+        "classDay2": "Tuesday",
+        "classTime": "09:30 AM-10:50 AM",
+        "roomNumber": "10B-16C"
+    },
+    {
+        "classDay1": "Sunday",
+        "classDay2": "Tuesday",
+        "classTime": "09:30 AM-10:50 AM",
+        "roomNumber": "10F-29C"
+    },
+    {
+        "classDay1": "Sunday",
+        "classDay2": "Tuesday",
+        "classTime": "11:00 AM-12:20 PM",
+        "roomNumber": "10F-29C"
+    },
+    {
+        "classDay1": "Sunday",
+        "classDay2": "Tuesday",
+        "classTime": "12:30 PM-01:50 PM",
+        "roomNumber": "10F-29C"
+    },
+    {
+        "classDay1": "Sunday",
+        "classDay2": "Tuesday",
+        "classTime": "02:00 PM-03:20 PM",
+        "roomNumber": "10F-29C"
+    },
+    {
+        "classDay1": "Monday",
+        "classDay2": "Wednesday",
+        "classTime": "11:00 AM-12:20 PM",
+        "roomNumber": "10F-29C"
+    },
+    {
+        "classDay1": "Monday",
+        "classDay2": "Wednesday",
+        "classTime": "12:30 PM-01:50 PM",
+        "roomNumber": "10F-29C"
+    },
+    {
+        "classDay1": "Monday",
+        "classDay2": "Wednesday",
+        "classTime": "02:00 PM-03:20 PM",
+        "roomNumber": "10F-29C"
+    },
+    {
+        "classDay1": "Monday",
+        "classDay2": "Wednesday",
+        "classTime": "03:30 PM-04:50 PM",
+        "roomNumber": "10F-29C"
+    },
+    {
+        "classDay1": "Saturday",
+        "classDay2": "Thursday",
+        "classTime": "09:30 AM-10:50 AM",
+        "roomNumber": "10F-29C"
+    },
+    {
+        "classDay1": "Saturday",
+        "classDay2": "Thursday",
+        "classTime": "12:30 PM-01:50 PM",
+        "roomNumber": "10F-29C"
+    },
+    {
+        "classDay1": "Saturday",
+        "classDay2": "Thursday",
+        "classTime": "02:00 PM-03:20 PM",
+        "roomNumber": "10F-29C"
+    },
+    {
+        "classDay1": "Saturday",
+        "classDay2": "Thursday",
+        "classTime": "09:30 AM-10:50 AM",
+        "roomNumber": "10F-31C"
+    },
+    {
+        "classDay1": "Saturday",
+        "classDay2": "Thursday",
+        "classTime": "12:30 PM-01:50 PM",
+        "roomNumber": "10F-31C"
+    },
+    {
+        "classDay1": "Saturday",
+        "classDay2": "Thursday",
+        "classTime": "02:00 PM-03:20 PM",
+        "roomNumber": "10F-31C"
+    },
+    {
+        "classDay1": "Sunday",
+        "classDay2": "Tuesday",
+        "classTime": "11:00 AM-12:20 PM",
+        "roomNumber": "10F-31C"
+    },
+    {
+        "classDay1": "Sunday",
+        "classDay2": "Tuesday",
+        "classTime": "12:30 PM-01:50 PM",
+        "roomNumber": "10F-31C"
+    },
+    {
+        "classDay1": "Sunday",
+        "classDay2": "Tuesday",
+        "classTime": "03:30 PM-04:50 PM",
+        "roomNumber": "10F-31C"
+    },
+    {
+        "classDay1": "Sunday",
+        "classDay2": "Tuesday",
+        "classTime": "08:00 AM-09:20 AM",
+        "roomNumber": "10H-38C"
+    },
+    {
+        "classDay1": "Monday",
+        "classDay2": "Wednesday",
+        "classTime": "09:30 AM-10:50 AM",
+        "roomNumber": "10F-31C"
+    },
+    {
+        "classDay1": "Monday",
+        "classDay2": "Wednesday",
+        "classTime": "11:00 AM-12:20 PM",
+        "roomNumber": "10F-31C"
+    },
+    {
+        "classDay1": "Monday",
+        "classDay2": "Wednesday",
+        "classTime": "12:30 PM-01:50 PM",
+        "roomNumber": "10F-31C"
+    },
+    {
+        "classDay1": "Sunday",
+        "classDay2": "Tuesday",
+        "classTime": "02:00 PM-03:20 PM",
+        "roomNumber": "10H-38C"
+    },
+    {
+        "classDay1": "Monday",
+        "classDay2": "Wednesday",
+        "classTime": "12:30 PM-01:50 PM",
+        "roomNumber": "10H-38C"
+    },
+    {
+        "classDay1": "Monday",
+        "classDay2": "Wednesday",
+        "classTime": "02:00 PM-03:20 PM",
+        "roomNumber": "10H-38C"
+    },
+    {
+        "classDay1": "Monday",
+        "classDay2": "Wednesday",
+        "classTime": "03:30 PM-04:50 PM",
+        "roomNumber": "10H-38C"
+    },
+    {
+        "classDay1": "Saturday",
+        "classDay2": "Thursday",
+        "classTime": "11:00 AM-12:20 PM",
+        "roomNumber": "10H-39C"
+    },
+    {
+        "classDay1": "Monday",
+        "classDay2": "Wednesday",
+        "classTime": "08:00 AM-09:20 AM",
+        "roomNumber": "10H-39C"
+    },
+    {
+        "classDay1": "Monday",
+        "classDay2": "Wednesday",
+        "classTime": "09:30 AM-10:50 AM",
+        "roomNumber": "10H-39C"
+    },
+    {
+        "classDay1": "Monday",
+        "classDay2": "Wednesday",
+        "classTime": "11:00 AM-12:20 PM",
+        "roomNumber": "10H-39C"
+    },
+    {
+        "classDay1": "Monday",
+        "classDay2": "Wednesday",
+        "classTime": "12:30 PM-01:50 PM",
+        "roomNumber": "10H-39C"
+    },
+    {
+        "classDay1": "Saturday",
+        "classDay2": "Thursday",
+        "classTime": "08:00 AM-09:20 AM",
+        "roomNumber": "10H-40C"
+    },
+    {
+        "classDay1": "Saturday",
+        "classDay2": "Thursday",
+        "classTime": "09:30 AM-10:50 AM",
+        "roomNumber": "10H-40C"
+    },
+    {
+        "classDay1": "Sunday",
+        "classDay2": "Tuesday",
+        "classTime": "03:30 PM-04:50 PM-08A",
+        "roomNumber": "05C"
+    },
+    {
+        "classDay1": "Saturday",
+        "classDay2": "Thursday",
+        "classTime": "11:00 AM-12:20 PM",
+        "roomNumber": "10H-40C"
+    },
+    {
+        "classDay1": "Saturday",
+        "classDay2": "Thursday",
+        "classTime": "02:00 PM-03:20 PM",
+        "roomNumber": "10H-40C"
+    },
+    {
+        "classDay1": "Saturday",
+        "classDay2": "Thursday",
+        "classTime": "03:30 PM-04:50 PM",
+        "roomNumber": "10H-40C"
+    },
+    {
+        "classDay1": "Sunday",
+        "classDay2": "Tuesday",
+        "classTime": "08:00 AM-09:20 AM",
+        "roomNumber": "10H-40C"
+    },
+    {
+        "classDay1": "Sunday",
+        "classDay2": "Tuesday",
+        "classTime": "09:30 AM-10:50 AM",
+        "roomNumber": "10H-40C"
+    },
+    {
+        "classDay1": "Sunday",
+        "classDay2": "Tuesday",
+        "classTime": "11:00 AM-12:20 PM",
+        "roomNumber": "10H-40C"
+    },
+    {
+        "classDay1": "Sunday",
+        "classDay2": "Tuesday",
+        "classTime": "09:30 AM-10:50 AM",
+        "roomNumber": "07D-21C"
+    },
+    {
+        "classDay1": "Monday",
+        "classDay2": "Wednesday",
+        "classTime": "09:30 AM-10:50 AM",
+        "roomNumber": "07D-21C"
+    },
+    {
+        "classDay1": "Saturday",
+        "classDay2": "Thursday",
+        "classTime": "12:30 PM-01:50 PM-07A",
+        "roomNumber": "09C"
+    },
+    {
+        "classDay1": "Sunday",
+        "classDay2": "Tuesday",
+        "classTime": "09:30 AM-10:50 AM",
+        "roomNumber": "09C-14C"
+    },
+    {
+        "classDay1": "Sunday",
+        "classDay2": "Tuesday",
+        "classTime": "08:00 AM-09:20 AM-07A",
+        "roomNumber": "07C"
+    },
+    {
+        "classDay1": "Sunday",
+        "classDay2": "Tuesday",
+        "classTime": "02:00 PM-03:20 PM",
+        "roomNumber": "10H-40C"
+    },
+    {
+        "classDay1": "Sunday",
+        "classDay2": "Tuesday",
+        "classTime": "03:30 PM-04:50 PM",
+        "roomNumber": "10H-40C"
+    },
+    {
+        "classDay1": "Monday",
+        "classDay2": "Wednesday",
+        "classTime": "08:00 AM-09:20 AM",
+        "roomNumber": "10H-40C"
+    },
+    {
+        "classDay1": "Monday",
+        "classDay2": "Wednesday",
+        "classTime": "09:30 AM-10:50 AM",
+        "roomNumber": "10H-40C"
+    },
+    {
+        "classDay1": "Monday",
+        "classDay2": "Wednesday",
+        "classTime": "12:30 PM-01:50 PM",
+        "roomNumber": "10H-40C"
+    },
+    {
+        "classDay1": "Monday",
+        "classDay2": "Wednesday",
+        "classTime": "02:00 PM-03:20 PM",
+        "roomNumber": "10H-40C"
+    },
+    {
+        "classDay1": "Monday",
+        "classDay2": "Wednesday",
+        "classTime": "03:30 PM-04:50 PM",
+        "roomNumber": "10H-40C"
+    },
+    {
+        "classDay1": "Saturday",
+        "classDay2": "Thursday",
+        "classTime": "08:00 AM-09:20 AM-12A",
+        "roomNumber": "07C"
+    },
+    {
+        "classDay1": "Saturday",
+        "classDay2": "Thursday",
+        "classTime": "11:00 AM-12:20 PM-12A",
+        "roomNumber": "07C"
+    },
+    {
+        "classDay1": "Saturday",
+        "classDay2": "Thursday",
+        "classTime": "12:30 PM-01:50 PM-12A",
+        "roomNumber": "07C"
+    },
+    {
+        "classDay1": "Saturday",
+        "classDay2": "Thursday",
+        "classTime": "02:00 PM-03:20 PM-12A",
+        "roomNumber": "07C"
+    },
+    {
+        "classDay1": "Sunday",
+        "classDay2": "Tuesday",
+        "classTime": "08:00 AM-09:20 AM-12A",
+        "roomNumber": "07C"
+    },
+    {
+        "classDay1": "Sunday",
+        "classDay2": "Tuesday",
+        "classTime": "09:30 AM-10:50 AM-12A",
+        "roomNumber": "07C"
+    },
+    {
+        "classDay1": "Saturday",
+        "classDay2": "Thursday",
+        "classTime": "12:30 PM-01:50 PM",
+        "roomNumber": "08B-07C"
+    },
+    {
+        "classDay1": "Saturday",
+        "classDay2": "Thursday",
+        "classTime": "12:30 PM-01:50 PM",
+        "roomNumber": "09C-15C"
+    },
+    {
+        "classDay1": "Saturday",
+        "classDay2": "Thursday",
+        "classTime": "11:00 AM-12:20 PM",
+        "roomNumber": "08B-07C"
+    },
+    {
+        "classDay1": "Sunday",
+        "classDay2": "Tuesday",
+        "classTime": "02:00 PM-03:20 PM",
+        "roomNumber": "08B-07C"
+    },
+    {
+        "classDay1": "Monday",
+        "classDay2": "Wednesday",
+        "classTime": "03:30 PM-04:50 PM-08A",
+        "roomNumber": "05C"
+    },
+    {
+        "classDay1": "Monday",
+        "classDay2": "Wednesday",
+        "classTime": "02:00 PM-03:20 PM-08A",
+        "roomNumber": "06C"
+    },
+    {
+        "classDay1": "Sunday",
+        "classDay2": "Tuesday",
+        "classTime": "11:00 AM-12:20 PM-12A",
+        "roomNumber": "07C"
+    },
+    {
+        "classDay1": "Monday",
+        "classDay2": "Wednesday",
+        "classTime": "11:00 AM-12:20 PM-08A",
+        "roomNumber": "04C"
+    },
+    {
+        "classDay1": "Sunday",
+        "classDay2": "Tuesday",
+        "classTime": "11:00 AM-12:20 PM",
+        "roomNumber": "12H-36C"
+    },
+    {
+        "classDay1": "Saturday",
+        "classDay2": "Thursday",
+        "classTime": "02:00 PM-03:20 PM-07A",
+        "roomNumber": "03C"
+    },
+    {
+        "classDay1": "Saturday",
+        "classDay2": "Thursday",
+        "classTime": "03:30 PM-04:50 PM-07A",
+        "roomNumber": "05C"
+    },
+    {
+        "classDay1": "Saturday",
+        "classDay2": "Thursday",
+        "classTime": "12:30 PM-01:50 PM-07A",
+        "roomNumber": "06C"
+    },
+    {
+        "classDay1": "Saturday",
+        "classDay2": "Thursday",
+        "classTime": "02:00 PM-03:20 PM-07A",
+        "roomNumber": "04C"
+    },
+    {
+        "classDay1": "Sunday",
+        "classDay2": "Tuesday",
+        "classTime": "12:30 PM-01:50 PM",
+        "roomNumber": "08B-09C"
+    },
+    {
+        "classDay1": "Sunday",
+        "classDay2": "Tuesday",
+        "classTime": "11:00 AM-12:20 PM-10A",
+        "roomNumber": "04C"
+    },
+    {
+        "classDay1": "Saturday",
+        "classDay2": "Thursday",
+        "classTime": "09:30 AM-10:50 AM",
+        "roomNumber": "07H-27C"
+    },
+    {
+        "classDay1": "Saturday",
+        "classDay2": "Thursday",
+        "classTime": "11:00 AM-12:20 PM",
+        "roomNumber": "07H-27C"
+    },
+    {
+        "classDay1": "Monday",
+        "classDay2": "Wednesday",
+        "classTime": "11:00 AM-12:20 PM-10A",
+        "roomNumber": "05C"
+    },
+    {
+        "classDay1": "Monday",
+        "classDay2": "Wednesday",
+        "classTime": "12:30 PM-01:50 PM-10A",
+        "roomNumber": "05C"
+    },
+    {
+        "classDay1": "Sunday",
+        "classDay2": "Tuesday",
+        "classTime": "02:00 PM-03:20 PM-08A",
+        "roomNumber": "06C"
+    },
+    {
+        "classDay1": "Sunday",
+        "classDay2": "Tuesday",
+        "classTime": "03:30 PM-04:50 PM",
+        "roomNumber": "10B-12C"
+    },
+    {
+        "classDay1": "Sunday",
+        "classDay2": "Tuesday",
+        "classTime": "12:30 PM-01:50 PM-08A",
+        "roomNumber": "04C"
+    },
+    {
+        "classDay1": "Sunday",
+        "classDay2": "Tuesday",
+        "classTime": "11:00 AM-12:20 PM-08A",
+        "roomNumber": "01C"
+    },
+    {
+        "classDay1": "Monday",
+        "classDay2": "Wednesday",
+        "classTime": "03:30 PM-04:50 PM",
+        "roomNumber": "09G-28C"
+    },
+    {
+        "classDay1": "Monday",
+        "classDay2": "Wednesday",
+        "classTime": "11:00 AM-12:20 PM-07A",
+        "roomNumber": "09C"
+    },
+    {
+        "classDay1": "Saturday",
+        "classDay2": "Thursday",
+        "classTime": "12:30 PM-01:50 PM",
+        "roomNumber": "08H-22C"
+    },
+    {
+        "classDay1": "Saturday",
+        "classDay2": "Thursday",
+        "classTime": "03:30 PM-04:50 PM",
+        "roomNumber": "08H-22C"
+    },
+    {
+        "classDay1": "Monday",
+        "classDay2": "Wednesday",
+        "classTime": "12:30 PM-01:50 PM",
+        "roomNumber": "09H-34C"
+    },
+    {
+        "classDay1": "Sunday",
+        "classDay2": "Tuesday",
+        "classTime": "12:30 PM-01:50 PM-10A",
+        "roomNumber": "09C"
+    },
+    {
+        "classDay1": "Sunday",
+        "classDay2": "Tuesday",
+        "classTime": "11:00 AM-12:20 PM-10A",
+        "roomNumber": "09C"
+    },
+    {
+        "classDay1": "Monday",
+        "classDay2": "Wednesday",
+        "classTime": "11:00 AM-12:20 PM-08A",
+        "roomNumber": "03C"
+    },
+    {
+        "classDay1": "Monday",
+        "classDay2": "Wednesday",
+        "classTime": "02:00 PM-03:20 PM-08A",
+        "roomNumber": "01C"
+    },
+    {
+        "classDay1": "Sunday",
+        "classDay2": "Tuesday",
+        "classTime": "03:30 PM-04:50 PM-08A",
+        "roomNumber": "04C"
+    },
+    {
+        "classDay1": "Sunday",
+        "classDay2": "Tuesday",
+        "classTime": "11:00 AM-12:20 PM-08A",
+        "roomNumber": "03C"
+    },
+    {
+        "classDay1": "Monday",
+        "classDay2": "Wednesday",
+        "classTime": "11:00 AM-12:20 PM",
+        "roomNumber": "10B-12C"
+    },
+    {
+        "classDay1": "Sunday",
+        "classDay2": "Tuesday",
+        "classTime": "12:30 PM-01:50 PM-08A",
+        "roomNumber": "02C"
+    },
+    {
+        "classDay1": "Sunday",
+        "classDay2": "Tuesday",
+        "classTime": "12:30 PM-01:50 PM-08A",
+        "roomNumber": "02C"
+    },
+    {
+        "classDay1": "Monday",
+        "classDay2": "Wednesday",
+        "classTime": "08:00 AM-09:20 AM-08A",
+        "roomNumber": "02C"
+    },
+    {
+        "classDay1": "Monday",
+        "classDay2": "Wednesday",
+        "classTime": "09:30 AM-10:50 AM-08A",
+        "roomNumber": "01C"
+    },
+    {
+        "classDay1": "Monday",
+        "classDay2": "Wednesday",
+        "classTime": "02:00 PM-03:20 PM",
+        "roomNumber": "10B-12C"
+    },
+    {
+        "classDay1": "Saturday",
+        "classDay2": "Thursday",
+        "classTime": "09:30 AM-10:50 AM",
+        "roomNumber": "09D-17C"
+    },
+    {
+        "classDay1": "Monday",
+        "classDay2": "Wednesday",
+        "classTime": "03:30 PM-04:50 PM-10A",
+        "roomNumber": "05C"
+    },
+    {
+        "classDay1": "Monday",
+        "classDay2": "Wednesday",
+        "classTime": "02:00 PM-03:20 PM",
+        "roomNumber": "09G-29C"
+    },
+    {
+        "classDay1": "Saturday",
+        "classDay2": "Thursday",
+        "classTime": "09:30 AM-10:50 AM-10A",
+        "roomNumber": "07C"
+    },
+    {
+        "classDay1": "Sunday",
+        "classDay2": "Tuesday",
+        "classTime": "09:30 AM-10:50 AM",
+        "roomNumber": "07H-26C"
+    },
+    {
+        "classDay1": "Sunday",
+        "classDay2": "Tuesday",
+        "classTime": "03:30 PM-04:50 PM-08A",
+        "roomNumber": "02C"
+    },
+    {
+        "classDay1": "Monday",
+        "classDay2": "Wednesday",
+        "classTime": "02:00 PM-03:20 PM-08A",
+        "roomNumber": "02C"
+    },
+    {
+        "classDay1": "Monday",
+        "classDay2": "Wednesday",
+        "classTime": "12:30 PM-01:50 PM-08A",
+        "roomNumber": "04C"
+    },
+    {
+        "classDay1": "Monday",
+        "classDay2": "Wednesday",
+        "classTime": "03:30 PM-04:50 PM-08A",
+        "roomNumber": "04C"
+    },
+    {
+        "classDay1": "Monday",
+        "classDay2": "Wednesday",
+        "classTime": "03:30 PM-04:50 PM-08A",
+        "roomNumber": "04C"
+    },
+    {
+        "classDay1": "Monday",
+        "classDay2": "Wednesday",
+        "classTime": "11:00 AM-12:20 PM",
+        "roomNumber": "07B-13C"
+    },
+    {
+        "classDay1": "Monday",
+        "classDay2": "Wednesday",
+        "classTime": "11:00 AM-12:20 PM",
+        "roomNumber": "09D-18C"
+    },
+    {
+        "classDay1": "Sunday",
+        "classDay2": "Tuesday",
+        "classTime": "08:00 AM-09:20 AM-08A",
+        "roomNumber": "01C"
+    },
+    {
+        "classDay1": "Saturday",
+        "classDay2": "Thursday",
+        "classTime": "03:30 PM-04:50 PM-08A",
+        "roomNumber": "04C"
+    },
+    {
+        "classDay1": "Saturday",
+        "classDay2": "Thursday",
+        "classTime": "03:30 PM-04:50 PM-08A",
+        "roomNumber": "04C"
+    },
+    {
+        "classDay1": "Saturday",
+        "classDay2": "Thursday",
+        "classTime": "12:30 PM-01:50 PM-08A",
+        "roomNumber": "04C"
+    },
+    {
+        "classDay1": "Saturday",
+        "classDay2": "Thursday",
+        "classTime": "12:30 PM-01:50 PM-08A",
+        "roomNumber": "04C"
+    },
+    {
+        "classDay1": "Monday",
+        "classDay2": "Wednesday",
+        "classTime": "09:30 AM-10:50 AM-08A",
+        "roomNumber": "04C"
+    },
+    {
+        "classDay1": "Sunday",
+        "classDay2": "Tuesday",
+        "classTime": "09:30 AM-10:50 AM",
+        "roomNumber": "10B-12C"
+    },
+    {
+        "classDay1": "Sunday",
+        "classDay2": "Tuesday",
+        "classTime": "11:00 AM-12:20 PM-08A",
+        "roomNumber": "03C"
+    },
+    {
+        "classDay1": "Sunday",
+        "classDay2": "Tuesday",
+        "classTime": "02:00 PM-03:20 PM-08A",
+        "roomNumber": "03C"
+    },
+    {
+        "classDay1": "Sunday",
+        "classDay2": "Tuesday",
+        "classTime": "09:30 AM-10:50 AM-08A",
+        "roomNumber": "02C"
+    },
+    {
+        "classDay1": "Monday",
+        "classDay2": "Wednesday",
+        "classTime": "02:00 PM-03:20 PM-08A",
+        "roomNumber": "03C"
+    },
+    {
+        "classDay1": "Monday",
+        "classDay2": "Wednesday",
+        "classTime": "08:00 AM-09:20 AM-08A",
+        "roomNumber": "03C"
+    },
+    {
+        "classDay1": "Monday",
+        "classDay2": "Wednesday",
+        "classTime": "08:00 AM-09:20 AM-08A",
+        "roomNumber": "03C"
+    },
+    {
+        "classDay1": "Monday",
+        "classDay2": "Wednesday",
+        "classTime": "11:00 AM-12:20 PM-08A",
+        "roomNumber": "01C"
+    },
+    {
+        "classDay1": "Monday",
+        "classDay2": "Wednesday",
+        "classTime": "12:30 PM-01:50 PM",
+        "roomNumber": "09D-18C"
+    },
+    {
+        "classDay1": "Monday",
+        "classDay2": "Wednesday",
+        "classTime": "11:00 AM-12:20 PM-08A",
+        "roomNumber": "01C"
+    },
+    {
+        "classDay1": "Sunday",
+        "classDay2": "Tuesday",
+        "classTime": "11:00 AM-12:20 PM-08A",
+        "roomNumber": "04C"
+    },
+    {
+        "classDay1": "Monday",
+        "classDay2": "Wednesday",
+        "classTime": "11:00 AM-12:20 PM-08A",
+        "roomNumber": "02C"
+    },
+    {
+        "classDay1": "Sunday",
+        "classDay2": "Tuesday",
+        "classTime": "08:00 AM-09:20 AM-08A",
+        "roomNumber": "04C"
+    },
+    {
+        "classDay1": "Monday",
+        "classDay2": "Wednesday",
+        "classTime": "12:30 PM-01:50 PM-08A",
+        "roomNumber": "02C"
+    },
+    {
+        "classDay1": "Sunday",
+        "classDay2": "Tuesday",
+        "classTime": "02:00 PM-03:20 PM-08A",
+        "roomNumber": "02C"
+    },
+    {
+        "classDay1": "Sunday",
+        "classDay2": "Tuesday",
+        "classTime": "03:30 PM-04:50 PM-08A",
+        "roomNumber": "03C"
+    },
+    {
+        "classDay1": "Monday",
+        "classDay2": "Wednesday",
+        "classTime": "12:30 PM-01:50 PM-08A",
+        "roomNumber": "02C"
+    },
+    {
+        "classDay1": "Sunday",
+        "classDay2": "Tuesday",
+        "classTime": "02:00 PM-03:20 PM-08A",
+        "roomNumber": "02C"
+    },
+    {
+        "classDay1": "Saturday",
+        "classDay2": "Thursday",
+        "classTime": "11:00 AM-12:20 PM-10A",
+        "roomNumber": "07C"
+    },
+    {
+        "classDay1": "Saturday",
+        "classDay2": "Thursday",
+        "classTime": "12:30 PM-01:50 PM-10A",
+        "roomNumber": "07C"
+    },
+    {
+        "classDay1": "Saturday",
+        "classDay2": "Thursday",
+        "classTime": "03:30 PM-04:50 PM-10A",
+        "roomNumber": "07C"
+    },
+    {
+        "classDay1": "Sunday",
+        "classDay2": "Tuesday",
+        "classTime": "02:00 PM-03:20 PM",
+        "roomNumber": "09H-37C"
+    },
+    {
+        "classDay1": "Monday",
+        "classDay2": "Wednesday",
+        "classTime": "09:30 AM-10:50 AM-08A",
+        "roomNumber": "02C"
+    },
+    {
+        "classDay1": "Monday",
+        "classDay2": "Wednesday",
+        "classTime": "12:30 PM-01:50 PM-08A",
+        "roomNumber": "03C"
+    },
+    {
+        "classDay1": "Monday",
+        "classDay2": "Wednesday",
+        "classTime": "03:30 PM-04:50 PM-08A",
+        "roomNumber": "01C"
+    },
+    {
+        "classDay1": "Monday",
+        "classDay2": "Wednesday",
+        "classTime": "12:30 PM-01:50 PM",
+        "roomNumber": "10B-12C"
+    },
+    {
+        "classDay1": "Sunday",
+        "classDay2": "Tuesday",
+        "classTime": "12:30 PM-01:50 PM-08A",
+        "roomNumber": "03C"
+    },
+    {
+        "classDay1": "Sunday",
+        "classDay2": "Tuesday",
+        "classTime": "09:30 AM-10:50 AM-08A",
+        "roomNumber": "01C"
+    },
+    {
+        "classDay1": "Saturday",
+        "classDay2": "Thursday",
+        "classTime": "02:00 PM-03:20 PM-10A",
+        "roomNumber": "09C"
+    },
+    {
+        "classDay1": "Saturday",
+        "classDay2": "Thursday",
+        "classTime": "12:30 PM-01:50 PM-10A",
+        "roomNumber": "05C"
+    },
+    {
+        "classDay1": "Saturday",
+        "classDay2": "Thursday",
+        "classTime": "03:30 PM-04:50 PM-10A",
+        "roomNumber": "09C"
+    },
+    {
+        "classDay1": "Monday",
+        "classDay2": "Wednesday",
+        "classTime": "02:00 PM-03:20 PM",
+        "roomNumber": "09H-33C"
+    },
+    {
+        "classDay1": "Monday",
+        "classDay2": "Wednesday",
+        "classTime": "03:30 PM-04:50 PM",
+        "roomNumber": "09H-33C"
+    },
+    {
+        "classDay1": "Sunday",
+        "classDay2": "Tuesday",
+        "classTime": "02:00 PM-03:20 PM-08A",
+        "roomNumber": "04C"
+    },
+    {
+        "classDay1": "Sunday",
+        "classDay2": "Tuesday",
+        "classTime": "03:30 PM-04:50 PM-08A",
+        "roomNumber": "01C"
+    },
+    {
+        "classDay1": "Sunday",
+        "classDay2": "Tuesday",
+        "classTime": "12:30 PM-01:50 PM-08A",
+        "roomNumber": "01C"
+    },
+    {
+        "classDay1": "Sunday",
+        "classDay2": "Tuesday",
+        "classTime": "11:00 AM-12:20 PM",
+        "roomNumber": "10B-12C"
+    },
+    {
+        "classDay1": "Sunday",
+        "classDay2": "Tuesday",
+        "classTime": "11:00 AM-12:20 PM",
+        "roomNumber": "09H-32C"
+    },
+    {
+        "classDay1": "Sunday",
+        "classDay2": "Tuesday",
+        "classTime": "12:30 PM-01:50 PM",
+        "roomNumber": "09H-32C"
+    },
+    {
+        "classDay1": "Sunday",
+        "classDay2": "Tuesday",
+        "classTime": "11:00 AM-12:20 PM",
+        "roomNumber": "09D-18C"
+    },
+    {
+        "classDay1": "Monday",
+        "classDay2": "Wednesday",
+        "classTime": "12:30 PM-01:50 PM",
+        "roomNumber": "09H-32C"
+    },
+    {
+        "classDay1": "Monday",
+        "classDay2": "Wednesday",
+        "classTime": "11:00 AM-12:20 PM",
+        "roomNumber": "09H-33C"
+    },
+    {
+        "classDay1": "Monday",
+        "classDay2": "Wednesday",
+        "classTime": "12:30 PM-01:50 PM",
+        "roomNumber": "09H-33C"
+    },
+    {
+        "classDay1": "Saturday",
+        "classDay2": "Thursday",
+        "classTime": "02:00 PM-03:20 PM",
+        "roomNumber": "09H-35C"
+    },
+    {
+        "classDay1": "Monday",
+        "classDay2": "Wednesday",
+        "classTime": "03:30 PM-04:50 PM-09A",
+        "roomNumber": "06C"
+    },
+    {
+        "classDay1": "Sunday",
+        "classDay2": "Tuesday",
+        "classTime": "08:00 AM-09:20 AM-10A",
+        "roomNumber": "05C"
+    },
+    {
+        "classDay1": "Sunday",
+        "classDay2": "Tuesday",
+        "classTime": "09:30 AM-10:50 AM-10A",
+        "roomNumber": "05C"
+    },
+    {
+        "classDay1": "Sunday",
+        "classDay2": "Tuesday",
+        "classTime": "02:00 PM-03:20 PM",
+        "roomNumber": "09H-32C"
+    },
+    {
+        "classDay1": "Sunday",
+        "classDay2": "Tuesday",
+        "classTime": "03:30 PM-04:50 PM",
+        "roomNumber": "09H-32C"
+    },
+    {
+        "classDay1": "Monday",
+        "classDay2": "Wednesday",
+        "classTime": "02:00 PM-03:20 PM-09A",
+        "roomNumber": "06C"
+    },
+    {
+        "classDay1": "Monday",
+        "classDay2": "Wednesday",
+        "classTime": "09:30 AM-10:50 AM-10A",
+        "roomNumber": "09C"
+    },
+    {
+        "classDay1": "Sunday",
+        "classDay2": "Tuesday",
+        "classTime": "12:30 PM-01:50 PM",
+        "roomNumber": "09H-37C"
+    },
+    {
+        "classDay1": "Monday",
+        "classDay2": "Wednesday",
+        "classTime": "09:30 AM-10:50 AM",
+        "roomNumber": "09H-34C"
+    },
+    {
+        "classDay1": "Sunday",
+        "classDay2": "Tuesday",
+        "classTime": "09:30 AM-10:50 AM-10A",
+        "roomNumber": "10C"
+    },
+    {
+        "classDay1": "Saturday",
+        "classDay2": "Thursday",
+        "classTime": "03:30 PM-04:50 PM-10A",
+        "roomNumber": "08C"
+    },
+    {
+        "classDay1": "Saturday",
+        "classDay2": "Thursday",
+        "classTime": "08:00 AM-09:20 AM-10A",
+        "roomNumber": "09C"
+    },
+    {
+        "classDay1": "Saturday",
+        "classDay2": "Thursday",
+        "classTime": "09:30 AM-10:50 AM-10A",
+        "roomNumber": "09C"
+    },
+    {
+        "classDay1": "Saturday",
+        "classDay2": "Thursday",
+        "classTime": "09:30 AM-10:50 AM",
+        "roomNumber": "08F-21C"
+    },
+    {
+        "classDay1": "Saturday",
+        "classDay2": "Thursday",
+        "classTime": "11:00 AM-12:20 PM",
+        "roomNumber": "08F-21C"
+    },
+    {
+        "classDay1": "Saturday",
+        "classDay2": "Thursday",
+        "classTime": "12:30 PM-01:50 PM",
+        "roomNumber": "08F-21C"
+    },
+    {
+        "classDay1": "Saturday",
+        "classDay2": "Thursday",
+        "classTime": "12:30 PM-01:50 PM",
+        "roomNumber": "09E-23C"
+    },
+    {
+        "classDay1": "Saturday",
+        "classDay2": "Thursday",
+        "classTime": "08:00 AM-09:20 AM-10A",
+        "roomNumber": "07C"
+    },
+    {
+        "classDay1": "Monday",
+        "classDay2": "Wednesday",
+        "classTime": "12:30 PM-01:50 PM",
+        "roomNumber": "09D-17C"
+    },
+    {
+        "classDay1": "Sunday",
+        "classDay2": "Tuesday",
+        "classTime": "08:00 AM-09:20 AM-09A",
+        "roomNumber": "03C"
+    },
+    {
+        "classDay1": "Monday",
+        "classDay2": "Wednesday",
+        "classTime": "02:00 PM-02:55 PM",
+        "roomNumber": "11B-24L"
+    },
+    {
+        "classDay1": "Monday",
+        "classDay2": "Wednesday",
+        "classTime": "02:00 PM-02:55 PM",
+        "roomNumber": "UB100803"
+    },
+    {
+        "classDay1": "Sunday",
+        "classDay2": "Thursday",
+        "classTime": "12:15 PM-01:10 PM-11A",
+        "roomNumber": "07L"
+    },
+    {
+        "classDay1": "Monday",
+        "classDay2": "Wednesday",
+        "classTime": "03:05 PM-04:00 PM",
+        "roomNumber": "10B-13C"
+    },
+    {
+        "classDay1": "Sunday",
+        "classDay2": "Tuesday",
+        "classTime": "09:30 AM-10:50 AM-09A",
+        "roomNumber": "03C"
+    },
+    {
+        "classDay1": "Sunday",
+        "classDay2": "Tuesday",
+        "classTime": "11:00 AM-12:20 PM-09A",
+        "roomNumber": "03C"
+    },
+    {
+        "classDay1": "Sunday",
+        "classDay2": "Tuesday",
+        "classTime": "12:30 PM-01:50 PM-09A",
+        "roomNumber": "03C"
+    },
+    {
+        "classDay1": "Sunday",
+        "classDay2": "Tuesday",
+        "classTime": "02:00 PM-03:20 PM-09A",
+        "roomNumber": "03C"
+    },
+    {
+        "classDay1": "Sunday",
+        "classDay2": "Tuesday",
+        "classTime": "03:30 PM-04:50 PM-09A",
+        "roomNumber": "03C"
+    },
+    {
+        "classDay1": "Monday",
+        "classDay2": "Wednesday",
+        "classTime": "03:30 PM-04:50 PM-10A",
+        "roomNumber": "04C"
+    },
+    {
+        "classDay1": "Monday",
+        "classDay2": "Wednesday",
+        "classTime": "09:30 AM-10:50 AM-09A",
+        "roomNumber": "03C"
+    },
+    {
+        "classDay1": "Monday",
+        "classDay2": "Wednesday",
+        "classTime": "12:30 PM-01:50 PM-09A",
+        "roomNumber": "03C"
+    },
+    {
+        "classDay1": "Monday",
+        "classDay2": "Wednesday",
+        "classTime": "02:00 PM-03:20 PM-09A",
+        "roomNumber": "03C"
+    },
+    {
+        "classDay1": "Monday",
+        "classDay2": "Wednesday",
+        "classTime": "03:30 PM-04:50 PM-09A",
+        "roomNumber": "03C"
+    },
+    {
+        "classDay1": "Sunday",
+        "classDay2": "Tuesday",
+        "classTime": "11:00 AM-12:20 PM",
+        "roomNumber": "08F-21C"
+    },
+    {
+        "classDay1": "Sunday",
+        "classDay2": "Tuesday",
+        "classTime": "12:30 PM-01:50 PM",
+        "roomNumber": "08F-21C"
+    },
+    {
+        "classDay1": "Sunday",
+        "classDay2": "Tuesday",
+        "classTime": "02:00 PM-03:20 PM",
+        "roomNumber": "08F-21C"
+    },
+    {
+        "classDay1": "Sunday",
+        "classDay2": "Tuesday",
+        "classTime": "03:30 PM-04:50 PM",
+        "roomNumber": "08F-21C"
+    },
+    {
+        "classDay1": "Sunday",
+        "classDay2": "Tuesday",
+        "classTime": "09:30 AM-10:50 AM",
+        "roomNumber": "09E-23C"
+    },
+    {
+        "classDay1": "Saturday",
+        "classDay2": "Thursday",
+        "classTime": "08:00 AM-09:20 AM-09A",
+        "roomNumber": "02C"
+    },
+    {
+        "classDay1": "Saturday",
+        "classDay2": "Thursday",
+        "classTime": "09:30 AM-10:50 AM-09A",
+        "roomNumber": "02C"
+    },
+    {
+        "classDay1": "Saturday",
+        "classDay2": "Thursday",
+        "classTime": "11:00 AM-12:20 PM-09A",
+        "roomNumber": "02C"
+    },
+    {
+        "classDay1": "Saturday",
+        "classDay2": "Thursday",
+        "classTime": "12:30 PM-01:50 PM-09A",
+        "roomNumber": "02C"
+    },
+    {
+        "classDay1": "Sunday",
+        "classDay2": "Tuesday",
+        "classTime": "08:00 AM-09:20 AM-10A",
+        "roomNumber": "07C"
+    },
+    {
+        "classDay1": "Sunday",
+        "classDay2": "Tuesday",
+        "classTime": "08:00 AM-09:20 AM",
+        "roomNumber": "09B-12C"
+    },
+    {
+        "classDay1": "Monday",
+        "classDay2": "Wednesday",
+        "classTime": "08:00 AM-09:20 AM-10A",
+        "roomNumber": "06C"
+    },
+    {
+        "classDay1": "Saturday",
+        "classDay2": "Thursday",
+        "classTime": "12:30 PM-01:50 PM",
+        "roomNumber": "10B-17C"
+    },
+    {
+        "classDay1": "Sunday",
+        "classDay2": "Tuesday",
+        "classTime": "11:00 AM-12:20 PM",
+        "roomNumber": "09E-23C"
+    },
+    {
+        "classDay1": "Sunday",
+        "classDay2": "Tuesday",
+        "classTime": "12:30 PM-01:50 PM",
+        "roomNumber": "09E-23C"
+    },
+    {
+        "classDay1": "Sunday",
+        "classDay2": "Tuesday",
+        "classTime": "02:00 PM-03:20 PM",
+        "roomNumber": "09E-23C"
+    },
+    {
+        "classDay1": "Sunday",
+        "classDay2": "Tuesday",
+        "classTime": "03:30 PM-04:50 PM",
+        "roomNumber": "09E-23C"
+    },
+    {
+        "classDay1": "Sunday",
+        "classDay2": "Tuesday",
+        "classTime": "09:30 AM-10:50 AM",
+        "roomNumber": "09G-28C"
+    },
+    {
+        "classDay1": "Sunday",
+        "classDay2": "Tuesday",
+        "classTime": "11:00 AM-12:20 PM",
+        "roomNumber": "09G-28C"
+    },
+    {
+        "classDay1": "Sunday",
+        "classDay2": "Tuesday",
+        "classTime": "12:30 PM-01:50 PM",
+        "roomNumber": "09G-28C"
+    },
+    {
+        "classDay1": "Monday",
+        "classDay2": "Wednesday",
+        "classTime": "02:00 PM-03:20 PM-10A",
+        "roomNumber": "04C"
+    },
+    {
+        "classDay1": "Saturday",
+        "classDay2": "Thursday",
+        "classTime": "12:30 PM-01:50 PM-09A",
+        "roomNumber": "03C"
+    },
+    {
+        "classDay1": "Saturday",
+        "classDay2": "Thursday",
+        "classTime": "02:00 PM-03:20 PM-09A",
+        "roomNumber": "03C"
+    },
+    {
+        "classDay1": "Saturday",
+        "classDay2": "Thursday",
+        "classTime": "11:00 AM-12:20 PM",
+        "roomNumber": "07D-20C"
+    },
+    {
+        "classDay1": "Sunday",
+        "classDay2": "Tuesday",
+        "classTime": "12:30 PM-01:50 PM",
+        "roomNumber": "09G-29C"
+    },
+    {
+        "classDay1": "Sunday",
+        "classDay2": "Tuesday",
+        "classTime": "02:00 PM-03:20 PM",
+        "roomNumber": "09G-29C"
+    },
+    {
+        "classDay1": "Sunday",
+        "classDay2": "Tuesday",
+        "classTime": "03:30 PM-04:50 PM",
+        "roomNumber": "09G-29C"
+    },
+    {
+        "classDay1": "Monday",
+        "classDay2": "Wednesday",
+        "classTime": "02:00 PM-03:20 PM",
+        "roomNumber": "07F-22C"
+    },
+    {
+        "classDay1": "Sunday",
+        "classDay2": "Tuesday",
+        "classTime": "11:00 AM-12:20 PM",
+        "roomNumber": "07H-26C"
+    },
+    {
+        "classDay1": "Sunday",
+        "classDay2": "Tuesday",
+        "classTime": "12:30 PM-01:50 PM",
+        "roomNumber": "07H-26C"
+    },
+    {
+        "classDay1": "Sunday",
+        "classDay2": "Tuesday",
+        "classTime": "03:30 PM-04:50 PM",
+        "roomNumber": "07H-26C"
+    },
+    {
+        "classDay1": "Monday",
+        "classDay2": "Wednesday",
+        "classTime": "08:00 AM-09:20 AM",
+        "roomNumber": "07H-26C"
+    },
+    {
+        "classDay1": "Saturday",
+        "classDay2": "Thursday",
+        "classTime": "09:30 AM-10:50 AM-10A",
+        "roomNumber": "04C"
+    },
+    {
+        "classDay1": "Sunday",
+        "classDay2": "Tuesday",
+        "classTime": "11:00 AM-12:20 PM-09A",
+        "roomNumber": "01C"
+    },
+    {
+        "classDay1": "Saturday",
+        "classDay2": "Thursday",
+        "classTime": "11:00 AM-12:20 PM",
+        "roomNumber": "08H-22C"
+    },
+    {
+        "classDay1": "Saturday",
+        "classDay2": "Thursday",
+        "classTime": "08:00 AM-09:20 AM",
+        "roomNumber": "09H-32C"
+    },
+    {
+        "classDay1": "Saturday",
+        "classDay2": "Thursday",
+        "classTime": "09:30 AM-10:50 AM",
+        "roomNumber": "09H-32C"
+    },
+    {
+        "classDay1": "Saturday",
+        "classDay2": "Thursday",
+        "classTime": "08:00 AM-09:20 AM-09A",
+        "roomNumber": "03C"
+    },
+    {
+        "classDay1": "Monday",
+        "classDay2": "Wednesday",
+        "classTime": "11:00 AM-12:20 PM",
+        "roomNumber": "09G-28C"
+    },
+    {
+        "classDay1": "Monday",
+        "classDay2": "Wednesday",
+        "classTime": "12:30 PM-01:50 PM",
+        "roomNumber": "09G-28C"
+    },
+    {
+        "classDay1": "Monday",
+        "classDay2": "Wednesday",
+        "classTime": "11:00 AM-12:20 PM",
+        "roomNumber": "09G-29C"
+    },
+    {
+        "classDay1": "Monday",
+        "classDay2": "Wednesday",
+        "classTime": "03:30 PM-04:50 PM",
+        "roomNumber": "09D-17C"
+    },
+    {
+        "classDay1": "Saturday",
+        "classDay2": "Thursday",
+        "classTime": "02:00 PM-03:20 PM-09A",
+        "roomNumber": "05C"
+    },
+    {
+        "classDay1": "Saturday",
+        "classDay2": "Thursday",
+        "classTime": "11:00 AM-12:20 PM-09A",
+        "roomNumber": "03C"
+    },
+    {
+        "classDay1": "Sunday",
+        "classDay2": "Tuesday",
+        "classTime": "09:30 AM-10:50 AM-09A",
+        "roomNumber": "06C"
+    },
+    {
+        "classDay1": "Sunday",
+        "classDay2": "Tuesday",
+        "classTime": "11:00 AM-12:20 PM-09A",
+        "roomNumber": "06C"
+    },
+    {
+        "classDay1": "Monday",
+        "classDay2": "Wednesday",
+        "classTime": "02:00 PM-03:20 PM",
+        "roomNumber": "09D-17C"
+    },
+    {
+        "classDay1": "Sunday",
+        "classDay2": "Tuesday",
+        "classTime": "02:00 PM-03:20 PM-10A",
+        "roomNumber": "06C"
+    },
+    {
+        "classDay1": "Saturday",
+        "classDay2": "Thursday",
+        "classTime": "03:30 PM-04:50 PM",
+        "roomNumber": "07H-26C"
+    },
+    {
+        "classDay1": "Monday",
+        "classDay2": "Wednesday",
+        "classTime": "03:30 PM-04:50 PM",
+        "roomNumber": "09G-31T"
+    },
+    {
+        "classDay1": "Monday",
+        "classDay2": "Wednesday",
+        "classTime": "03:30 PM-04:50 PM",
+        "roomNumber": "09G-31T"
+    },
+    {
+        "classDay1": "Monday",
+        "classDay2": "Wednesday",
+        "classTime": "11:00 AM-12:20 PM-09A",
+        "roomNumber": "05C"
+    },
+    {
+        "classDay1": "Monday",
+        "classDay2": "Wednesday",
+        "classTime": "12:30 PM-01:50 PM",
+        "roomNumber": "09H-37C"
+    },
+    {
+        "classDay1": "Monday",
+        "classDay2": "Wednesday",
+        "classTime": "09:30 AM-10:50 AM",
+        "roomNumber": "09H-32C"
+    },
+    {
+        "classDay1": "Monday",
+        "classDay2": "Wednesday",
+        "classTime": "08:00 AM-09:20 AM",
+        "roomNumber": "09H-32C"
+    },
+    {
+        "classDay1": "Sunday",
+        "classDay2": "Tuesday",
+        "classTime": "03:30 PM-04:50 PM",
+        "roomNumber": "07F-22C"
+    },
+    {
+        "classDay1": "Saturday",
+        "classDay2": "Thursday",
+        "classTime": "02:00 PM-03:20 PM",
+        "roomNumber": "09H-37C"
+    },
+    {
+        "classDay1": "Sunday",
+        "classDay2": "Tuesday",
+        "classTime": "08:00 AM-09:20 AM",
+        "roomNumber": "10C-21C"
+    },
+    {
+        "classDay1": "Sunday",
+        "classDay2": "Tuesday",
+        "classTime": "09:30 AM-10:50 AM",
+        "roomNumber": "10C-21C"
+    },
+    {
+        "classDay1": "Sunday",
+        "classDay2": "Tuesday",
+        "classTime": "02:00 PM-03:20 PM",
+        "roomNumber": "10C-21C"
+    },
+    {
+        "classDay1": "Monday",
+        "classDay2": "Wednesday",
+        "classTime": "09:30 AM-10:50 AM",
+        "roomNumber": "10C-21C"
+    },
+    {
+        "classDay1": "Monday",
+        "classDay2": "Wednesday",
+        "classTime": "11:00 AM-12:20 PM",
+        "roomNumber": "10C-21C"
+    },
+    {
+        "classDay1": "Monday",
+        "classDay2": "Wednesday",
+        "classTime": "02:00 PM-03:20 PM",
+        "roomNumber": "10C-21C"
+    },
+    {
+        "classDay1": "Monday",
+        "classDay2": "Wednesday",
+        "classTime": "12:30 PM-01:50 PM",
+        "roomNumber": "09H-36C"
+    },
+    {
+        "classDay1": "Saturday",
+        "classDay2": "Thursday",
+        "classTime": "12:30 PM-01:50 PM",
+        "roomNumber": "09H-35C"
+    },
+    {
+        "classDay1": "Saturday",
+        "classDay2": "Thursday",
+        "classTime": "03:30 PM-04:50 PM",
+        "roomNumber": "09D-18C"
+    },
+    {
+        "classDay1": "Sunday",
+        "classDay2": "Tuesday",
+        "classTime": "02:00 PM-03:20 PM",
+        "roomNumber": "09H-35C"
+    },
+    {
+        "classDay1": "Sunday",
+        "classDay2": "Tuesday",
+        "classTime": "03:30 PM-04:50 PM",
+        "roomNumber": "09H-35C"
+    },
+    {
+        "classDay1": "Monday",
+        "classDay2": "Wednesday",
+        "classTime": "02:00 PM-03:20 PM",
+        "roomNumber": "09G-28C"
+    },
+    {
+        "classDay1": "Sunday",
+        "classDay2": "Tuesday",
+        "classTime": "09:30 AM-10:50 AM",
+        "roomNumber": "09G-29C"
+    },
+    {
+        "classDay1": "Saturday",
+        "classDay2": "Thursday",
+        "classTime": "11:00 AM-12:20 PM",
+        "roomNumber": "10C-21C"
+    },
+    {
+        "classDay1": "Saturday",
+        "classDay2": "Thursday",
+        "classTime": "02:00 PM-03:20 PM",
+        "roomNumber": "10C-21C"
+    },
+    {
+        "classDay1": "Saturday",
+        "classDay2": "Thursday",
+        "classTime": "03:30 PM-04:50 PM",
+        "roomNumber": "10C-21C"
+    },
+    {
+        "classDay1": "Saturday",
+        "classDay2": "Thursday",
+        "classTime": "08:00 AM-09:20 AM",
+        "roomNumber": "10C-21C"
+    },
+    {
+        "classDay1": "Saturday",
+        "classDay2": "Thursday",
+        "classTime": "12:30 PM-01:50 PM",
+        "roomNumber": "10C-21C"
+    },
+    {
+        "classDay1": "Monday",
+        "classDay2": "Wednesday",
+        "classTime": "09:30 AM-10:50 AM",
+        "roomNumber": "09H-35C"
+    },
+    {
+        "classDay1": "Monday",
+        "classDay2": "Wednesday",
+        "classTime": "03:30 PM-04:50 PM",
+        "roomNumber": "09H-35C"
+    },
+    {
+        "classDay1": "Monday",
+        "classDay2": "Wednesday",
+        "classTime": "11:10 AM-12:05 PM-11A",
+        "roomNumber": "07L"
+    },
+    {
+        "classDay1": "Sunday",
+        "classDay2": "Tuesday",
+        "classTime": "09:30 AM-10:50 AM-10A",
+        "roomNumber": "08C"
+    },
+    {
+        "classDay1": "Sunday",
+        "classDay2": "Tuesday",
+        "classTime": "03:30 PM-04:50 PM",
+        "roomNumber": "10C-21C"
+    },
+    {
+        "classDay1": "Sunday",
+        "classDay2": "Tuesday",
+        "classTime": "02:00 PM-03:20 PM-12A",
+        "roomNumber": "10C"
+    },
+    {
+        "classDay1": "Sunday",
+        "classDay2": "Tuesday",
+        "classTime": "11:00 AM-12:20 PM-10A",
+        "roomNumber": "08C"
+    },
+    {
+        "classDay1": "Saturday",
+        "classDay2": "Thursday",
+        "classTime": "12:30 PM-01:50 PM-09A",
+        "roomNumber": "06C"
+    },
+    {
+        "classDay1": "Monday",
+        "classDay2": "Wednesday",
+        "classTime": "11:00 AM-12:20 PM-10A",
+        "roomNumber": "06C"
+    },
+    {
+        "classDay1": "Monday",
+        "classDay2": "Wednesday",
+        "classTime": "12:30 PM-01:50 PM-10A",
+        "roomNumber": "06C"
+    },
+    {
+        "classDay1": "Sunday",
+        "classDay2": "Tuesday",
+        "classTime": "08:00 AM-09:20 AM-10A",
+        "roomNumber": "06C"
+    },
+    {
+        "classDay1": "Sunday",
+        "classDay2": "Tuesday",
+        "classTime": "09:30 AM-10:50 AM-10A",
+        "roomNumber": "06C"
+    },
+    {
+        "classDay1": "Saturday",
+        "classDay2": "Thursday",
+        "classTime": "08:00 AM-09:20 AM",
+        "roomNumber": "09B-12C"
+    },
+    {
+        "classDay1": "Saturday",
+        "classDay2": "Thursday",
+        "classTime": "02:00 PM-03:20 PM-09A",
+        "roomNumber": "01C"
+    },
+    {
+        "classDay1": "Saturday",
+        "classDay2": "Thursday",
+        "classTime": "03:30 PM-04:50 PM-09A",
+        "roomNumber": "01C"
+    },
+    {
+        "classDay1": "Saturday",
+        "classDay2": "Thursday",
+        "classTime": "12:30 PM-01:50 PM-09A",
+        "roomNumber": "04C"
+    },
+    {
+        "classDay1": "Saturday",
+        "classDay2": "Thursday",
+        "classTime": "02:00 PM-03:20 PM-09A",
+        "roomNumber": "04C"
+    },
+    {
+        "classDay1": "Saturday",
+        "classDay2": "Thursday",
+        "classTime": "03:30 PM-04:50 PM-09A",
+        "roomNumber": "04C"
+    },
+    {
+        "classDay1": "Sunday",
+        "classDay2": "Tuesday",
+        "classTime": "08:00 AM-09:20 AM-10A",
+        "roomNumber": "08C"
+    },
+    {
+        "classDay1": "Sunday",
+        "classDay2": "Tuesday",
+        "classTime": "12:30 PM-01:50 PM-09A",
+        "roomNumber": "07C"
+    },
+    {
+        "classDay1": "Sunday",
+        "classDay2": "Tuesday",
+        "classTime": "03:30 PM-04:50 PM-09A",
+        "roomNumber": "06C"
+    },
+    {
+        "classDay1": "Monday",
+        "classDay2": "Wednesday",
+        "classTime": "08:00 AM-09:20 AM-10A",
+        "roomNumber": "10C"
+    },
+    {
+        "classDay1": "Monday",
+        "classDay2": "Wednesday",
+        "classTime": "02:00 PM-03:20 PM-09A",
+        "roomNumber": "01C"
+    },
+    {
+        "classDay1": "Monday",
+        "classDay2": "Wednesday",
+        "classTime": "03:30 PM-04:50 PM-09A",
+        "roomNumber": "01C"
+    },
+    {
+        "classDay1": "Sunday",
+        "classDay2": "Tuesday",
+        "classTime": "11:00 AM-12:20 PM-10A",
+        "roomNumber": "05C"
+    },
+    {
+        "classDay1": "Sunday",
+        "classDay2": "Tuesday",
+        "classTime": "12:30 PM-01:50 PM-10A",
+        "roomNumber": "05C"
+    },
+    {
+        "classDay1": "Monday",
+        "classDay2": "Wednesday",
+        "classTime": "12:30 PM-01:50 PM-10A",
+        "roomNumber": "07C"
+    },
+    {
+        "classDay1": "Monday",
+        "classDay2": "Wednesday",
+        "classTime": "02:00 PM-03:20 PM-10A",
+        "roomNumber": "07C"
+    },
+    {
+        "classDay1": "Monday",
+        "classDay2": "Wednesday",
+        "classTime": "03:30 PM-04:50 PM-10A",
+        "roomNumber": "07C"
+    },
+    {
+        "classDay1": "Saturday",
+        "classDay2": "Thursday",
+        "classTime": "11:00 AM-12:20 PM",
+        "roomNumber": "09B-12C"
+    },
+    {
+        "classDay1": "Saturday",
+        "classDay2": "Thursday",
+        "classTime": "12:30 PM-01:50 PM",
+        "roomNumber": "09B-12C"
+    },
+    {
+        "classDay1": "Saturday",
+        "classDay2": "Thursday",
+        "classTime": "03:30 PM-04:50 PM-09A",
+        "roomNumber": "07C"
+    },
+    {
+        "classDay1": "Sunday",
+        "classDay2": "Tuesday",
+        "classTime": "02:00 PM-03:20 PM-10A",
+        "roomNumber": "09C"
+    },
+    {
+        "classDay1": "Sunday",
+        "classDay2": "Tuesday",
+        "classTime": "03:30 PM-04:50 PM-10A",
+        "roomNumber": "09C"
+    },
+    {
+        "classDay1": "Saturday",
+        "classDay2": "Thursday",
+        "classTime": "09:30 AM-10:50 AM",
+        "roomNumber": "09G-29C"
+    },
+    {
+        "classDay1": "Saturday",
+        "classDay2": "Thursday",
+        "classTime": "11:00 AM-12:20 PM",
+        "roomNumber": "09G-29C"
+    },
+    {
+        "classDay1": "Monday",
+        "classDay2": "Wednesday",
+        "classTime": "12:30 PM-01:50 PM-12A",
+        "roomNumber": "08C"
+    },
+    {
+        "classDay1": "Monday",
+        "classDay2": "Wednesday",
+        "classTime": "02:00 PM-03:20 PM",
+        "roomNumber": "07D-19C"
+    },
+    {
+        "classDay1": "Monday",
+        "classDay2": "Wednesday",
+        "classTime": "11:00 AM-12:20 PM",
+        "roomNumber": "09D-19C"
+    },
+    {
+        "classDay1": "Monday",
+        "classDay2": "Wednesday",
+        "classTime": "11:00 AM-12:20 PM-08A",
+        "roomNumber": "05C"
+    },
+    {
+        "classDay1": "Monday",
+        "classDay2": "Wednesday",
+        "classTime": "08:00 AM-09:20 AM",
+        "roomNumber": "08B-08C"
+    },
+    {
+        "classDay1": "Monday",
+        "classDay2": "Wednesday",
+        "classTime": "08:00 AM-09:20 AM",
+        "roomNumber": "10C-21C"
+    },
+    {
+        "classDay1": "Sunday",
+        "classDay2": "Tuesday",
+        "classTime": "08:00 AM-09:20 AM-10A",
+        "roomNumber": "04C"
+    },
+    {
+        "classDay1": "Saturday",
+        "classDay2": "Thursday",
+        "classTime": "02:00 PM-03:20 PM",
+        "roomNumber": "07H-27C"
+    },
+    {
+        "classDay1": "Monday",
+        "classDay2": "Wednesday",
+        "classTime": "11:00 AM-12:20 PM",
+        "roomNumber": "09H-34C"
+    },
+    {
+        "classDay1": "Saturday",
+        "classDay2": "Thursday",
+        "classTime": "03:30 PM-04:50 PM",
+        "roomNumber": "09C-14C"
+    },
+    {
+        "classDay1": "Monday",
+        "classDay2": "Wednesday",
+        "classTime": "08:00 AM-09:20 AM",
+        "roomNumber": "09B-12C"
+    },
+    {
+        "classDay1": "Monday",
+        "classDay2": "Wednesday",
+        "classTime": "02:00 PM-03:20 PM-09A",
+        "roomNumber": "05C"
+    },
+    {
+        "classDay1": "Sunday",
+        "classDay2": "Tuesday",
+        "classTime": "09:30 AM-10:50 AM-10A",
+        "roomNumber": "04C"
+    },
+    {
+        "classDay1": "Sunday",
+        "classDay2": "Tuesday",
+        "classTime": "03:30 PM-04:50 PM",
+        "roomNumber": "09B-12C"
+    },
+    {
+        "classDay1": "Monday",
+        "classDay2": "Wednesday",
+        "classTime": "08:00 AM-09:20 AM-09A",
+        "roomNumber": "04C"
+    },
+    {
+        "classDay1": "Monday",
+        "classDay2": "Wednesday",
+        "classTime": "09:30 AM-10:50 AM-09A",
+        "roomNumber": "04C"
+    },
+    {
+        "classDay1": "Sunday",
+        "classDay2": "Tuesday",
+        "classTime": "08:00 AM-09:20 AM-09A",
+        "roomNumber": "04C"
+    },
+    {
+        "classDay1": "Sunday",
+        "classDay2": "Tuesday",
+        "classTime": "09:30 AM-10:50 AM-09A",
+        "roomNumber": "04C"
+    },
+    {
+        "classDay1": "Monday",
+        "classDay2": "Wednesday",
+        "classTime": "03:30 PM-04:50 PM",
+        "roomNumber": "09H-34C"
+    },
+    {
+        "classDay1": "Saturday",
+        "classDay2": "Thursday",
+        "classTime": "11:00 AM-12:20 PM-09A",
+        "roomNumber": "01C"
+    },
+    {
+        "classDay1": "Saturday",
+        "classDay2": "Thursday",
+        "classTime": "08:00 AM-09:20 AM-09A",
+        "roomNumber": "05C"
+    },
+    {
+        "classDay1": "Sunday",
+        "classDay2": "Tuesday",
+        "classTime": "09:30 AM-10:50 AM",
+        "roomNumber": "09C-13C"
+    },
+    {
+        "classDay1": "Sunday",
+        "classDay2": "Tuesday",
+        "classTime": "09:30 AM-10:50 AM",
+        "roomNumber": "09H-37C"
+    },
+    {
+        "classDay1": "Monday",
+        "classDay2": "Wednesday",
+        "classTime": "08:00 AM-09:20 AM-09A",
+        "roomNumber": "01C"
+    },
+    {
+        "classDay1": "Saturday",
+        "classDay2": "Thursday",
+        "classTime": "11:00 AM-12:20 PM",
+        "roomNumber": "07F-22C"
+    },
+    {
+        "classDay1": "Sunday",
+        "classDay2": "Tuesday",
+        "classTime": "12:30 PM-01:50 PM-09A",
+        "roomNumber": "06C"
+    },
+    {
+        "classDay1": "Sunday",
+        "classDay2": "Tuesday",
+        "classTime": "02:00 PM-03:20 PM-09A",
+        "roomNumber": "06C"
+    },
+    {
+        "classDay1": "Saturday",
+        "classDay2": "Thursday",
+        "classTime": "08:00 AM-09:20 AM",
+        "roomNumber": "08H-22C"
+    },
+    {
+        "classDay1": "Sunday",
+        "classDay2": "Tuesday",
+        "classTime": "12:30 PM-01:50 PM",
+        "roomNumber": "09H-35C"
+    },
+    {
+        "classDay1": "Monday",
+        "classDay2": "Wednesday",
+        "classTime": "12:30 PM-01:50 PM-09A",
+        "roomNumber": "05C"
+    },
+    {
+        "classDay1": "Monday",
+        "classDay2": "Wednesday",
+        "classTime": "12:30 PM-01:50 PM",
+        "roomNumber": "12H-36C"
+    },
+    {
+        "classDay1": "Monday",
+        "classDay2": "Wednesday",
+        "classTime": "11:00 AM-12:20 PM-10A",
+        "roomNumber": "04C"
+    },
+    {
+        "classDay1": "Saturday",
+        "classDay2": "Thursday",
+        "classTime": "09:30 AM-10:50 AM-10A",
+        "roomNumber": "10C"
+    },
+    {
+        "classDay1": "Saturday",
+        "classDay2": "Thursday",
+        "classTime": "11:00 AM-12:20 PM-10A",
+        "roomNumber": "10C"
+    },
+    {
+        "classDay1": "Monday",
+        "classDay2": "Wednesday",
+        "classTime": "09:30 AM-10:50 AM",
+        "roomNumber": "09C-13C"
+    },
+    {
+        "classDay1": "Monday",
+        "classDay2": "Wednesday",
+        "classTime": "11:00 AM-12:20 PM",
+        "roomNumber": "09C-13C"
+    },
+    {
+        "classDay1": "Saturday",
+        "classDay2": "Thursday",
+        "classTime": "08:00 AM-09:20 AM",
+        "roomNumber": "09D-18C"
+    },
+    {
+        "classDay1": "Monday",
+        "classDay2": "Wednesday",
+        "classTime": "12:30 PM-01:50 PM-10A",
+        "roomNumber": "04C"
+    },
+    {
+        "classDay1": "Sunday",
+        "classDay2": "Tuesday",
+        "classTime": "08:00 AM-09:20 AM-09A",
+        "roomNumber": "05C"
+    },
+    {
+        "classDay1": "Saturday",
+        "classDay2": "Thursday",
+        "classTime": "09:30 AM-10:50 AM",
+        "roomNumber": "09D-18C"
+    },
+    {
+        "classDay1": "Saturday",
+        "classDay2": "Thursday",
+        "classTime": "02:00 PM-03:20 PM-10A",
+        "roomNumber": "08C"
+    },
+    {
+        "classDay1": "Monday",
+        "classDay2": "Wednesday",
+        "classTime": "03:30 PM-04:50 PM-10A",
+        "roomNumber": "06C"
+    },
+    {
+        "classDay1": "Saturday",
+        "classDay2": "Thursday",
+        "classTime": "12:30 PM-01:50 PM",
+        "roomNumber": "07H-27C"
+    },
+    {
+        "classDay1": "Sunday",
+        "classDay2": "Thursday",
+        "classTime": "09:00 AM-12:05 PM-11A",
+        "roomNumber": "12L"
+    },
+    {
+        "classDay1": "Sunday",
+        "classDay2": "Thursday",
+        "classTime": "09:00 AM-01:10 PM",
+        "roomNumber": "11B-23L"
+    },
+    {
+        "classDay1": "Sunday",
+        "classDay2": "Thursday",
+        "classTime": "09:00 AM-01:10 PM",
+        "roomNumber": "10B-13C"
+    },
+    {
+        "classDay1": "Sunday",
+        "classDay2": "Thursday",
+        "classTime": "09:00 AM-01:10 PM-11A",
+        "roomNumber": "07L"
+    },
+    {
+        "classDay1": "Sunday",
+        "classDay2": "Thursday",
+        "classTime": "09:00 AM-01:10 PM-11A",
+        "roomNumber": "08L"
+    },
+    {
+        "classDay1": "Sunday",
+        "classDay2": "Tuesday",
+        "classTime": "09:30 AM-10:50 AM-09A",
+        "roomNumber": "05C"
+    },
+    {
+        "classDay1": "Saturday",
+        "classDay2": "Thursday",
+        "classTime": "11:00 AM-12:20 PM-10A",
+        "roomNumber": "06C"
+    },
+    {
+        "classDay1": "Saturday",
+        "classDay2": "Thursday",
+        "classTime": "12:30 PM-01:50 PM-10A",
+        "roomNumber": "06C"
+    },
+    {
+        "classDay1": "Saturday",
+        "classDay2": "Thursday",
+        "classTime": "03:30 PM-04:50 PM-10A",
+        "roomNumber": "06C"
+    },
+    {
+        "classDay1": "Monday",
+        "classDay2": "Wednesday",
+        "classTime": "11:00 AM-12:20 PM",
+        "roomNumber": "09H-37C"
+    },
+    {
+        "classDay1": "Saturday",
+        "classDay2": "Thursday",
+        "classTime": "03:30 PM-04:50 PM-09A",
+        "roomNumber": "06C"
+    },
+    {
+        "classDay1": "Saturday",
+        "classDay2": "Thursday",
+        "classTime": "11:00 AM-12:20 PM",
+        "roomNumber": "09D-17C"
+    },
+    {
+        "classDay1": "Saturday",
+        "classDay2": "Thursday",
+        "classTime": "12:30 PM-01:50 PM",
+        "roomNumber": "09D-17C"
+    },
+    {
+        "classDay1": "Sunday",
+        "classDay2": "Tuesday",
+        "classTime": "12:30 PM-01:50 PM",
+        "roomNumber": "09D-18C"
+    },
+    {
+        "classDay1": "Saturday",
+        "classDay2": "Thursday",
+        "classTime": "08:00 AM-09:20 AM",
+        "roomNumber": "09H-35C"
+    },
+    {
+        "classDay1": "Monday",
+        "classDay2": "Wednesday",
+        "classTime": "08:00 AM-09:20 AM-10A",
+        "roomNumber": "04C"
+    },
+    {
+        "classDay1": "Saturday",
+        "classDay2": "Thursday",
+        "classTime": "11:00 AM-12:20 PM",
+        "roomNumber": "09D-18C"
+    },
+    {
+        "classDay1": "Saturday",
+        "classDay2": "Thursday",
+        "classTime": "12:30 PM-01:50 PM",
+        "roomNumber": "09D-18C"
+    },
+    {
+        "classDay1": "Sunday",
+        "classDay2": "Tuesday",
+        "classTime": "02:00 PM-03:20 PM",
+        "roomNumber": "09H-36C"
+    },
+    {
+        "classDay1": "Sunday",
+        "classDay2": "Tuesday",
+        "classTime": "03:30 PM-04:50 PM",
+        "roomNumber": "09H-36C"
+    },
+    {
+        "classDay1": "Monday",
+        "classDay2": "Wednesday",
+        "classTime": "11:00 AM-12:20 PM",
+        "roomNumber": "07H-26C"
+    },
+    {
+        "classDay1": "Sunday",
+        "classDay2": "Tuesday",
+        "classTime": "02:00 PM-03:20 PM",
+        "roomNumber": "07F-22C"
+    },
+    {
+        "classDay1": "Monday",
+        "classDay2": "Wednesday",
+        "classTime": "09:30 AM-10:50 AM-09A",
+        "roomNumber": "01C"
+    },
+    {
+        "classDay1": "Monday",
+        "classDay2": "Wednesday",
+        "classTime": "11:00 AM-12:20 PM-09A",
+        "roomNumber": "01C"
+    },
+    {
+        "classDay1": "Monday",
+        "classDay2": "Wednesday",
+        "classTime": "09:30 AM-10:50 AM",
+        "roomNumber": "07F-22C"
+    },
+    {
+        "classDay1": "Monday",
+        "classDay2": "Wednesday",
+        "classTime": "11:00 AM-12:20 PM",
+        "roomNumber": "07F-22C"
+    },
+    {
+        "classDay1": "Sunday",
+        "classDay2": "Tuesday",
+        "classTime": "03:30 PM-04:50 PM",
+        "roomNumber": "09D-18C"
+    },
+    {
+        "classDay1": "Saturday",
+        "classDay2": "Thursday",
+        "classTime": "03:30 PM-04:50 PM",
+        "roomNumber": "09C-13C"
+    },
+    {
+        "classDay1": "Monday",
+        "classDay2": "Wednesday",
+        "classTime": "02:00 PM-03:20 PM",
+        "roomNumber": "07B-18C"
+    },
+    {
+        "classDay1": "Saturday",
+        "classDay2": "Thursday",
+        "classTime": "02:00 PM-03:20 PM",
+        "roomNumber": "09C-13C"
+    },
+    {
+        "classDay1": "Saturday",
+        "classDay2": "Thursday",
+        "classTime": "08:00 AM-09:20 AM-09A",
+        "roomNumber": "07C"
+    },
+    {
+        "classDay1": "Saturday",
+        "classDay2": "Thursday",
+        "classTime": "09:30 AM-10:50 AM-09A",
+        "roomNumber": "07C"
+    },
+    {
+        "classDay1": "Monday",
+        "classDay2": "Wednesday",
+        "classTime": "03:30 PM-04:50 PM",
+        "roomNumber": "10B-16C"
+    },
+    {
+        "classDay1": "Monday",
+        "classDay2": "Wednesday",
+        "classTime": "12:30 PM-01:50 PM",
+        "roomNumber": "07H-26C"
+    },
+    {
+        "classDay1": "Saturday",
+        "classDay2": "Thursday",
+        "classTime": "12:30 PM-01:50 PM-10A",
+        "roomNumber": "10C"
+    },
+    {
+        "classDay1": "Saturday",
+        "classDay2": "Thursday",
+        "classTime": "02:00 PM-03:20 PM-10A",
+        "roomNumber": "10C"
+    },
+    {
+        "classDay1": "Saturday",
+        "classDay2": "Thursday",
+        "classTime": "11:00 AM-12:20 PM-09A",
+        "roomNumber": "07C"
+    },
+    {
+        "classDay1": "Saturday",
+        "classDay2": "Thursday",
+        "classTime": "12:30 PM-01:50 PM-09A",
+        "roomNumber": "07C"
+    },
+    {
+        "classDay1": "Saturday",
+        "classDay2": "Thursday",
+        "classTime": "02:00 PM-03:20 PM-09A",
+        "roomNumber": "07C"
+    },
+    {
+        "classDay1": "Sunday",
+        "classDay2": "Tuesday",
+        "classTime": "02:00 PM-03:20 PM-09A",
+        "roomNumber": "05C"
+    },
+    {
+        "classDay1": "Monday",
+        "classDay2": "Wednesday",
+        "classTime": "03:30 PM-04:50 PM",
+        "roomNumber": "07H-26C"
+    },
+    {
+        "classDay1": "Sunday",
+        "classDay2": "Thursday",
+        "classTime": "02:00 PM-02:55 PM-11A",
+        "roomNumber": "07L"
+    },
+    {
+        "classDay1": "Sunday",
+        "classDay2": "Thursday",
+        "classTime": "02:00 PM-02:55 PM-11A",
+        "roomNumber": "08L"
+    },
+    {
+        "classDay1": "Monday",
+        "classDay2": "Wednesday",
+        "classTime": "02:00 PM-02:55 PM-11A",
+        "roomNumber": "10L"
+    },
+    {
+        "classDay1": "Monday",
+        "classDay2": "Wednesday",
+        "classTime": "02:00 PM-02:55 PM-11A",
+        "roomNumber": "12L"
+    },
+    {
+        "classDay1": "Monday",
+        "classDay2": "Wednesday",
+        "classTime": "12:15 PM-01:10 PM",
+        "roomNumber": "10B-13C"
+    },
+    {
+        "classDay1": "Saturday",
+        "classDay2": "Thursday",
+        "classTime": "03:30 PM-04:50 PM-10A",
+        "roomNumber": "10C"
+    },
+    {
+        "classDay1": "Saturday",
+        "classDay2": "Thursday",
+        "classTime": "08:00 AM-09:20 AM",
+        "roomNumber": "09D-17C"
+    },
+    {
+        "classDay1": "Monday",
+        "classDay2": "Wednesday",
+        "classTime": "12:15 PM-01:10 PM-11A",
+        "roomNumber": "08L"
+    },
+    {
+        "classDay1": "Monday",
+        "classDay2": "Wednesday",
+        "classTime": "12:15 PM-01:10 PM-11A",
+        "roomNumber": "09L"
+    },
+    {
+        "classDay1": "Monday",
+        "classDay2": "Wednesday",
+        "classTime": "12:15 PM-01:10 PM-11A",
+        "roomNumber": "11L"
+    },
+    {
+        "classDay1": "Monday",
+        "classDay2": "Wednesday",
+        "classTime": "12:15 PM-01:10 PM",
+        "roomNumber": "11B-23L"
+    },
+    {
+        "classDay1": "Monday",
+        "classDay2": "Wednesday",
+        "classTime": "12:15 PM-01:10 PM",
+        "roomNumber": "UB100703"
+    },
+    {
+        "classDay1": "Sunday",
+        "classDay2": "Thursday",
+        "classTime": "03:05 PM-04:00 PM",
+        "roomNumber": "10B-13C"
+    },
+    {
+        "classDay1": "Monday",
+        "classDay2": "Wednesday",
+        "classTime": "03:05 PM-04:00 PM-11A",
+        "roomNumber": "08L"
+    },
+    {
+        "classDay1": "Monday",
+        "classDay2": "Wednesday",
+        "classTime": "03:05 PM-04:00 PM-11A",
+        "roomNumber": "09L"
+    },
+    {
+        "classDay1": "Monday",
+        "classDay2": "Wednesday",
+        "classTime": "03:05 PM-04:00 PM-11A",
+        "roomNumber": "10L"
+    },
+    {
+        "classDay1": "Sunday",
+        "classDay2": "Thursday",
+        "classTime": "03:05 PM-04:00 PM-11A",
+        "roomNumber": "07L"
+    },
+    {
+        "classDay1": "Monday",
+        "classDay2": "Wednesday",
+        "classTime": "03:05 PM-04:00 PM-11A",
+        "roomNumber": "11L"
+    },
+    {
+        "classDay1": "Monday",
+        "classDay2": "Wednesday",
+        "classTime": "03:05 PM-04:00 PM",
+        "roomNumber": "11B-23L"
+    },
+    {
+        "classDay1": "Monday",
+        "classDay2": "Wednesday",
+        "classTime": "10:05 AM-11:00 AM-11A",
+        "roomNumber": "08L"
+    },
+    {
+        "classDay1": "Monday",
+        "classDay2": "Wednesday",
+        "classTime": "11:10 AM-12:05 PM",
+        "roomNumber": "10B-13C"
+    },
+    {
+        "classDay1": "Monday",
+        "classDay2": "Wednesday",
+        "classTime": "04:10 PM-05:05 PM-11A",
+        "roomNumber": "07L"
+    },
+    {
+        "classDay1": "Sunday",
+        "classDay2": "Thursday",
+        "classTime": "02:00 PM-02:55 PM-11A",
+        "roomNumber": "09L"
+    },
+    {
+        "classDay1": "Saturday",
+        "classDay2": "Thursday",
+        "classTime": "02:00 PM-03:20 PM",
+        "roomNumber": "UB0000"
+    },
+    {
+        "classDay1": "Saturday",
+        "classDay2": "Thursday",
+        "classTime": "03:30 PM-04:50 PM",
+        "roomNumber": "08B-08C"
+    },
+    {
+        "classDay1": "Saturday",
+        "classDay2": "Thursday",
+        "classTime": "12:30 PM-01:50 PM",
+        "roomNumber": "08B-09C"
+    },
+    {
+        "classDay1": "Saturday",
+        "classDay2": "Thursday",
+        "classTime": "09:30 AM-10:50 AM",
+        "roomNumber": "08B-10C"
+    },
+    {
+        "classDay1": "Monday",
+        "classDay2": "Wednesday",
+        "classTime": "11:00 AM-12:20 PM",
+        "roomNumber": "10H-37C"
+    },
+    {
+        "classDay1": "Sunday",
+        "classDay2": "Tuesday",
+        "classTime": "11:00 AM-12:20 PM",
+        "roomNumber": "12F-31L"
+    },
+    {
+        "classDay1": "Sunday",
+        "classDay2": "Tuesday",
+        "classTime": "11:00 AM-12:20 PM",
+        "roomNumber": "12F-31L"
+    },
+    {
+        "classDay1": "Monday",
+        "classDay2": "Wednesday",
+        "classTime": "12:15 PM-01:10 PM-11A",
+        "roomNumber": "10L"
+    },
+    {
+        "classDay1": "Monday",
+        "classDay2": "Wednesday",
+        "classTime": "10:05 AM-11:00 AM",
+        "roomNumber": "10B-13C"
+    },
+    {
+        "classDay1": "Monday",
+        "classDay2": "Wednesday",
+        "classTime": "11:00 AM-12:20 PM-10A",
+        "roomNumber": "10C"
+    },
+    {
+        "classDay1": "Monday",
+        "classDay2": "Wednesday",
+        "classTime": "12:30 PM-01:50 PM",
+        "roomNumber": "07H-30C"
+    },
+    {
+        "classDay1": "Monday",
+        "classDay2": "Wednesday",
+        "classTime": "12:30 PM-01:50 PM-10A",
+        "roomNumber": "10C"
+    },
+    {
+        "classDay1": "Sunday",
+        "classDay2": "Tuesday",
+        "classTime": "09:30 AM-10:50 AM",
+        "roomNumber": "09D-17C"
+    },
+    {
+        "classDay1": "Monday",
+        "classDay2": "Wednesday",
+        "classTime": "02:00 PM-03:20 PM-09A",
+        "roomNumber": "04C"
+    },
+    {
+        "classDay1": "Sunday",
+        "classDay2": "Tuesday",
+        "classTime": "03:30 PM-04:50 PM-09A",
+        "roomNumber": "04C"
+    },
+    {
+        "classDay1": "Sunday",
+        "classDay2": "Tuesday",
+        "classTime": "11:00 AM-12:20 PM",
+        "roomNumber": "09D-17C"
+    },
+    {
+        "classDay1": "Sunday",
+        "classDay2": "Tuesday",
+        "classTime": "08:00 AM-09:20 AM",
+        "roomNumber": "09H-34C"
+    },
+    {
+        "classDay1": "Sunday",
+        "classDay2": "Tuesday",
+        "classTime": "09:30 AM-10:50 AM",
+        "roomNumber": "10D-24C"
+    },
+    {
+        "classDay1": "Sunday",
+        "classDay2": "Tuesday",
+        "classTime": "11:00 AM-12:20 PM",
+        "roomNumber": "10D-24C"
+    },
+    {
+        "classDay1": "Sunday",
+        "classDay2": "Tuesday",
+        "classTime": "12:30 PM-01:50 PM",
+        "roomNumber": "10D-24C"
+    },
+    {
+        "classDay1": "Sunday",
+        "classDay2": "Tuesday",
+        "classTime": "02:00 PM-03:20 PM",
+        "roomNumber": "10D-24C"
+    },
+    {
+        "classDay1": "Sunday",
+        "classDay2": "Tuesday",
+        "classTime": "03:30 PM-04:50 PM",
+        "roomNumber": "10D-24C"
+    },
+    {
+        "classDay1": "Monday",
+        "classDay2": "Wednesday",
+        "classTime": "08:00 AM-09:20 AM",
+        "roomNumber": "10D-24C"
+    },
+    {
+        "classDay1": "Sunday",
+        "classDay2": "Tuesday",
+        "classTime": "05:00 PM-06:20 PM",
+        "roomNumber": "10D-24C"
+    },
+    {
+        "classDay1": "Saturday",
+        "classDay2": "Thursday",
+        "classTime": "05:00 PM-06:20 PM",
+        "roomNumber": "10F-30C"
+    },
+    {
+        "classDay1": "Saturday",
+        "classDay2": "Thursday",
+        "classTime": "05:00 PM-06:20 PM",
+        "roomNumber": "10D-24C"
+    },
+    {
+        "classDay1": "Saturday",
+        "classDay2": "Thursday",
+        "classTime": "09:30 AM-10:50 AM",
+        "roomNumber": "07H-28C"
+    },
+    {
+        "classDay1": "Monday",
+        "classDay2": "Wednesday",
+        "classTime": "11:00 AM-12:20 PM-07A",
+        "roomNumber": "02C"
+    },
+    {
+        "classDay1": "Sunday",
+        "classDay2": "Tuesday",
+        "classTime": "09:30 AM-10:50 AM",
+        "roomNumber": "09H-34C"
+    },
+    {
+        "classDay1": "Monday",
+        "classDay2": "Wednesday",
+        "classTime": "08:00 AM-09:20 AM",
+        "roomNumber": "09H-34C"
+    },
+    {
+        "classDay1": "Saturday",
+        "classDay2": "Thursday",
+        "classTime": "11:00 AM-12:20 PM",
+        "roomNumber": "09H-37C"
+    },
+    {
+        "classDay1": "Saturday",
+        "classDay2": "Thursday",
+        "classTime": "12:30 PM-01:50 PM",
+        "roomNumber": "09H-37C"
+    },
+    {
+        "classDay1": "Monday",
+        "classDay2": "Wednesday",
+        "classTime": "08:00 AM-09:20 AM",
+        "roomNumber": "09D-18C"
+    },
+    {
+        "classDay1": "Monday",
+        "classDay2": "Wednesday",
+        "classTime": "09:30 AM-10:50 AM",
+        "roomNumber": "09D-18C"
+    },
+    {
+        "classDay1": "Sunday",
+        "classDay2": "Tuesday",
+        "classTime": "09:30 AM-10:50 AM-10A",
+        "roomNumber": "07C"
+    },
+    {
+        "classDay1": "Sunday",
+        "classDay2": "Tuesday",
+        "classTime": "11:00 AM-12:20 PM-10A",
+        "roomNumber": "07C"
+    },
+    {
+        "classDay1": "Saturday",
+        "classDay2": "Thursday",
+        "classTime": "09:30 AM-10:50 AM",
+        "roomNumber": "10B-16C"
+    },
+    {
+        "classDay1": "Sunday",
+        "classDay2": "Tuesday",
+        "classTime": "11:00 AM-12:20 PM-07A",
+        "roomNumber": "01C"
+    },
+    {
+        "classDay1": "Saturday",
+        "classDay2": "Thursday",
+        "classTime": "12:30 PM-01:50 PM",
+        "roomNumber": "09G-28C"
+    },
+    {
+        "classDay1": "Sunday",
+        "classDay2": "Thursday",
+        "classTime": "12:15 PM-01:10 PM",
+        "roomNumber": "10B-13C"
+    },
+    {
+        "classDay1": "Sunday",
+        "classDay2": "Thursday",
+        "classTime": "02:00 PM-02:55 PM",
+        "roomNumber": "10B-13C"
+    },
+    {
+        "classDay1": "Sunday",
+        "classDay2": "Tuesday",
+        "classTime": "09:30 AM-10:50 AM",
+        "roomNumber": "08D-12C"
+    },
+    {
+        "classDay1": "Monday",
+        "classDay2": "Wednesday",
+        "classTime": "09:30 AM-10:50 AM-10A",
+        "roomNumber": "08C"
+    },
+    {
+        "classDay1": "Monday",
+        "classDay2": "Wednesday",
+        "classTime": "12:30 PM-01:50 PM-10A",
+        "roomNumber": "08C"
+    },
+    {
+        "classDay1": "Sunday",
+        "classDay2": "Tuesday",
+        "classTime": "11:00 AM-12:20 PM",
+        "roomNumber": "09H-33C"
+    },
+    {
+        "classDay1": "Sunday",
+        "classDay2": "Tuesday",
+        "classTime": "12:30 PM-01:50 PM",
+        "roomNumber": "09H-33C"
+    },
+    {
+        "classDay1": "Saturday",
+        "classDay2": "Thursday",
+        "classTime": "08:00 AM-09:20 AM",
+        "roomNumber": "09H-37C"
+    },
+    {
+        "classDay1": "Monday",
+        "classDay2": "Wednesday",
+        "classTime": "02:00 PM-02:55 PM-11A",
+        "roomNumber": "07L"
+    },
+    {
+        "classDay1": "Monday",
+        "classDay2": "Wednesday",
+        "classTime": "03:05 PM-04:00 PM-11A",
+        "roomNumber": "07L"
+    },
+    {
+        "classDay1": "Monday",
+        "classDay2": "Wednesday",
+        "classTime": "02:00 PM-02:55 PM-11A",
+        "roomNumber": "08L"
+    },
+    {
+        "classDay1": "Monday",
+        "classDay2": "Wednesday",
+        "classTime": "04:10 PM-05:05 PM",
+        "roomNumber": "10B-13C"
+    },
+    {
+        "classDay1": "Monday",
+        "classDay2": "Wednesday",
+        "classTime": "11:00 AM-12:20 PM",
+        "roomNumber": "10B-17C"
+    },
+    {
+        "classDay1": "Saturday",
+        "classDay2": "Thursday",
+        "classTime": "11:00 AM-12:20 PM",
+        "roomNumber": "07H-30C"
+    },
+    {
+        "classDay1": "Saturday",
+        "classDay2": "Thursday",
+        "classTime": "02:00 PM-03:20 PM",
+        "roomNumber": "07H-31C"
+    },
+    {
+        "classDay1": "Saturday",
+        "classDay2": "Thursday",
+        "classTime": "02:00 PM-03:20 PM",
+        "roomNumber": "10B-17C"
+    },
+    {
+        "classDay1": "Monday",
+        "classDay2": "Wednesday",
+        "classTime": "08:00 AM-09:20 AM",
+        "roomNumber": "10B-18C"
+    },
+    {
+        "classDay1": "Sunday",
+        "classDay2": "Tuesday",
+        "classTime": "03:30 PM-04:50 PM",
+        "roomNumber": "10B-17C"
+    },
+    {
+        "classDay1": "Sunday",
+        "classDay2": "Tuesday",
+        "classTime": "08:00 AM-09:20 AM",
+        "roomNumber": "10B-16C"
+    },
+    {
+        "classDay1": "Saturday",
+        "classDay2": "Thursday",
+        "classTime": "11:00 AM-12:20 PM",
+        "roomNumber": "07H-29C"
+    },
+    {
+        "classDay1": "Monday",
+        "classDay2": "Wednesday",
+        "classTime": "11:00 AM-12:20 PM",
+        "roomNumber": "09G-30C"
+    },
+    {
+        "classDay1": "Saturday",
+        "classDay2": "Thursday",
+        "classTime": "12:30 PM-01:50 PM-07A",
+        "roomNumber": "01C"
+    },
+    {
+        "classDay1": "Sunday",
+        "classDay2": "Tuesday",
+        "classTime": "09:30 AM-10:50 AM-07A",
+        "roomNumber": "02C"
+    },
+    {
+        "classDay1": "Saturday",
+        "classDay2": "Thursday",
+        "classTime": "11:00 AM-12:20 PM-07A",
+        "roomNumber": "03C"
+    },
+    {
+        "classDay1": "Monday",
+        "classDay2": "Wednesday",
+        "classTime": "09:30 AM-10:50 AM-07A",
+        "roomNumber": "02C"
+    },
+    {
+        "classDay1": "Saturday",
+        "classDay2": "Thursday",
+        "classTime": "11:00 AM-12:20 PM",
+        "roomNumber": "10D-23C"
+    },
+    {
+        "classDay1": "Sunday",
+        "classDay2": "Tuesday",
+        "classTime": "05:00 PM-06:20 PM",
+        "roomNumber": "07H-28C"
+    },
+    {
+        "classDay1": "Saturday",
+        "classDay2": "Thursday",
+        "classTime": "09:30 AM-10:50 AM",
+        "roomNumber": "09H-37C"
+    },
+    {
+        "classDay1": "Saturday",
+        "classDay2": "Thursday",
+        "classTime": "11:00 AM-12:20 PM-09A",
+        "roomNumber": "05C"
+    },
+    {
+        "classDay1": "Sunday",
+        "classDay2": "Tuesday",
+        "classTime": "12:30 PM-01:50 PM-10A",
+        "roomNumber": "10C"
+    },
+    {
+        "classDay1": "Monday",
+        "classDay2": "Wednesday",
+        "classTime": "02:00 PM-03:20 PM-10A",
+        "roomNumber": "10C"
+    },
+    {
+        "classDay1": "Sunday",
+        "classDay2": "Tuesday",
+        "classTime": "11:00 AM-12:20 PM",
+        "roomNumber": "09H-36C"
+    },
+    {
+        "classDay1": "Sunday",
+        "classDay2": "Tuesday",
+        "classTime": "12:30 PM-01:50 PM",
+        "roomNumber": "09H-36C"
+    },
+    {
+        "classDay1": "Saturday",
+        "classDay2": "Thursday",
+        "classTime": "08:00 AM-09:20 AM",
+        "roomNumber": "10B-18C"
+    },
+    {
+        "classDay1": "Monday",
+        "classDay2": "Wednesday",
+        "classTime": "12:30 PM-01:50 PM",
+        "roomNumber": "10D-23C"
+    },
+    {
+        "classDay1": "Sunday",
+        "classDay2": "Tuesday",
+        "classTime": "02:00 PM-03:20 PM",
+        "roomNumber": "07H-26C"
+    },
+    {
+        "classDay1": "Monday",
+        "classDay2": "Wednesday",
+        "classTime": "11:00 AM-12:20 PM-10A",
+        "roomNumber": "08C"
+    },
+    {
+        "classDay1": "Saturday",
+        "classDay2": "Thursday",
+        "classTime": "08:00 AM-09:20 AM-09A",
+        "roomNumber": "01C"
+    },
+    {
+        "classDay1": "Sunday",
+        "classDay2": "Tuesday",
+        "classTime": "02:00 PM-03:20 PM-07A",
+        "roomNumber": "04C"
+    },
+    {
+        "classDay1": "Monday",
+        "classDay2": "Wednesday",
+        "classTime": "11:00 AM-12:20 PM-09A",
+        "roomNumber": "06C"
+    },
+    {
+        "classDay1": "Saturday",
+        "classDay2": "Thursday",
+        "classTime": "12:30 PM-01:50 PM-09A",
+        "roomNumber": "05C"
+    },
+    {
+        "classDay1": "Monday",
+        "classDay2": "Wednesday",
+        "classTime": "02:00 PM-03:20 PM",
+        "roomNumber": "09H-37C"
+    },
+    {
+        "classDay1": "Sunday",
+        "classDay2": "Tuesday",
+        "classTime": "12:30 PM-01:50 PM",
+        "roomNumber": "09C-13C"
+    },
+    {
+        "classDay1": "Saturday",
+        "classDay2": "Thursday",
+        "classTime": "12:30 PM-01:50 PM",
+        "roomNumber": "07D-20C"
+    },
+    {
+        "classDay1": "Saturday",
+        "classDay2": "Thursday",
+        "classTime": "09:30 AM-10:50 AM-09A",
+        "roomNumber": "01C"
+    },
+    {
+        "classDay1": "Sunday",
+        "classDay2": "Tuesday",
+        "classTime": "03:30 PM-04:50 PM-07A",
+        "roomNumber": "08C"
+    },
+    {
+        "classDay1": "Saturday",
+        "classDay2": "Thursday",
+        "classTime": "03:30 PM-04:50 PM",
+        "roomNumber": "09H-35C"
+    },
+    {
+        "classDay1": "Monday",
+        "classDay2": "Wednesday",
+        "classTime": "03:30 PM-04:50 PM",
+        "roomNumber": "07H-27C"
+    },
+    {
+        "classDay1": "Saturday",
+        "classDay2": "Thursday",
+        "classTime": "09:30 AM-10:50 AM",
+        "roomNumber": "09H-35C"
+    },
+    {
+        "classDay1": "Saturday",
+        "classDay2": "Thursday",
+        "classTime": "11:00 AM-12:20 PM",
+        "roomNumber": "09H-35C"
+    },
+    {
+        "classDay1": "Sunday",
+        "classDay2": "Tuesday",
+        "classTime": "12:30 PM-01:50 PM-10A",
+        "roomNumber": "04C"
+    },
+    {
+        "classDay1": "Saturday",
+        "classDay2": "Thursday",
+        "classTime": "11:00 AM-12:20 PM",
+        "roomNumber": "09H-33C"
+    },
+    {
+        "classDay1": "Saturday",
+        "classDay2": "Thursday",
+        "classTime": "12:30 PM-01:50 PM",
+        "roomNumber": "09H-33C"
+    },
+    {
+        "classDay1": "Monday",
+        "classDay2": "Wednesday",
+        "classTime": "08:00 AM-09:20 AM-09A",
+        "roomNumber": "06C"
+    },
+    {
+        "classDay1": "Monday",
+        "classDay2": "Wednesday",
+        "classTime": "12:30 PM-01:50 PM-09A",
+        "roomNumber": "06C"
+    },
+    {
+        "classDay1": "Sunday",
+        "classDay2": "Tuesday",
+        "classTime": "03:30 PM-04:50 PM-10A",
+        "roomNumber": "07C"
+    },
+    {
+        "classDay1": "Saturday",
+        "classDay2": "Thursday",
+        "classTime": "02:00 PM-03:20 PM-09A",
+        "roomNumber": "02C"
+    },
+    {
+        "classDay1": "Saturday",
+        "classDay2": "Thursday",
+        "classTime": "03:30 PM-04:50 PM-09A",
+        "roomNumber": "02C"
+    },
+    {
+        "classDay1": "Monday",
+        "classDay2": "Wednesday",
+        "classTime": "02:00 PM-03:20 PM-09A",
+        "roomNumber": "07C"
+    },
+    {
+        "classDay1": "Saturday",
+        "classDay2": "Thursday",
+        "classTime": "03:30 PM-04:50 PM",
+        "roomNumber": "09H-37C"
+    },
+    {
+        "classDay1": "Sunday",
+        "classDay2": "Tuesday",
+        "classTime": "12:30 PM-01:50 PM-09A",
+        "roomNumber": "05C"
+    },
+    {
+        "classDay1": "Sunday",
+        "classDay2": "Tuesday",
+        "classTime": "08:00 AM-09:20 AM-10A",
+        "roomNumber": "09C"
+    },
+    {
+        "classDay1": "Monday",
+        "classDay2": "Wednesday",
+        "classTime": "11:00 AM-12:20 PM",
+        "roomNumber": "09H-36C"
+    },
+    {
+        "classDay1": "Saturday",
+        "classDay2": "Thursday",
+        "classTime": "08:00 AM-09:20 AM",
+        "roomNumber": "09H-33C"
+    },
+    {
+        "classDay1": "Saturday",
+        "classDay2": "Thursday",
+        "classTime": "02:00 PM-03:20 PM",
+        "roomNumber": "09H-33C"
+    },
+    {
+        "classDay1": "Saturday",
+        "classDay2": "Thursday",
+        "classTime": "03:30 PM-04:50 PM",
+        "roomNumber": "09H-33C"
+    },
+    {
+        "classDay1": "Saturday",
+        "classDay2": "Thursday",
+        "classTime": "02:00 PM-03:20 PM-10A",
+        "roomNumber": "06C"
+    },
+    {
+        "classDay1": "Monday",
+        "classDay2": "Wednesday",
+        "classTime": "08:00 AM-09:20 AM",
+        "roomNumber": "07F-22C"
+    },
+    {
+        "classDay1": "Sunday",
+        "classDay2": "Tuesday",
+        "classTime": "02:00 PM-03:20 PM-10A",
+        "roomNumber": "07C"
+    },
+    {
+        "classDay1": "Monday",
+        "classDay2": "Wednesday",
+        "classTime": "11:00 AM-12:20 PM-10A",
+        "roomNumber": "07C"
+    },
+    {
+        "classDay1": "Monday",
+        "classDay2": "Wednesday",
+        "classTime": "08:00 AM-09:20 AM-10A",
+        "roomNumber": "08C"
+    },
+    {
+        "classDay1": "Saturday",
+        "classDay2": "Thursday",
+        "classTime": "02:00 PM-03:20 PM-09A",
+        "roomNumber": "06C"
+    },
+    {
+        "classDay1": "Sunday",
+        "classDay2": "Tuesday",
+        "classTime": "09:30 AM-10:50 AM-10A",
+        "roomNumber": "09C"
+    },
+    {
+        "classDay1": "Monday",
+        "classDay2": "Wednesday",
+        "classTime": "09:30 AM-10:50 AM-10A",
+        "roomNumber": "04C"
+    },
+    {
+        "classDay1": "Saturday",
+        "classDay2": "Thursday",
+        "classTime": "09:30 AM-10:50 AM-09A",
+        "roomNumber": "03C"
+    },
+    {
+        "classDay1": "Monday",
+        "classDay2": "Wednesday",
+        "classTime": "09:30 AM-10:50 AM-10A",
+        "roomNumber": "06C"
+    },
+    {
+        "classDay1": "Saturday",
+        "classDay2": "Thursday",
+        "classTime": "08:00 AM-09:20 AM-09A",
+        "roomNumber": "04C"
+    },
+    {
+        "classDay1": "Saturday",
+        "classDay2": "Thursday",
+        "classTime": "09:30 AM-10:50 AM-09A",
+        "roomNumber": "04C"
+    },
+    {
+        "classDay1": "Monday",
+        "classDay2": "Wednesday",
+        "classTime": "11:00 AM-12:20 PM-08A",
+        "roomNumber": "02C"
+    },
+    {
+        "classDay1": "Sunday",
+        "classDay2": "Tuesday",
+        "classTime": "09:30 AM-10:50 AM-08A",
+        "roomNumber": "03C"
+    },
+    {
+        "classDay1": "Saturday",
+        "classDay2": "Thursday",
+        "classTime": "11:00 AM-12:20 PM-09A",
+        "roomNumber": "04C"
+    },
+    {
+        "classDay1": "Monday",
+        "classDay2": "Wednesday",
+        "classTime": "09:30 AM-10:50 AM-10A",
+        "roomNumber": "10C"
+    },
+    {
+        "classDay1": "Sunday",
+        "classDay2": "Tuesday",
+        "classTime": "08:00 AM-09:20 AM",
+        "roomNumber": "09D-18C"
+    },
+    {
+        "classDay1": "Sunday",
+        "classDay2": "Tuesday",
+        "classTime": "09:30 AM-10:50 AM",
+        "roomNumber": "09D-18C"
+    },
+    {
+        "classDay1": "Sunday",
+        "classDay2": "Tuesday",
+        "classTime": "09:30 AM-10:50 AM",
+        "roomNumber": "10H-38C"
+    },
+    {
+        "classDay1": "Sunday",
+        "classDay2": "Tuesday",
+        "classTime": "12:30 PM-01:50 PM",
+        "roomNumber": "10H-38C"
+    },
+    {
+        "classDay1": "Sunday",
+        "classDay2": "Tuesday",
+        "classTime": "03:30 PM-04:50 PM",
+        "roomNumber": "10H-38C"
+    },
+    {
+        "classDay1": "Saturday",
+        "classDay2": "Thursday",
+        "classTime": "08:00 AM-09:20 AM",
+        "roomNumber": "10H-39C"
+    },
+    {
+        "classDay1": "Saturday",
+        "classDay2": "Thursday",
+        "classTime": "12:30 PM-01:50 PM",
+        "roomNumber": "10H-39C"
+    },
+    {
+        "classDay1": "Saturday",
+        "classDay2": "Thursday",
+        "classTime": "02:00 PM-03:20 PM",
+        "roomNumber": "10H-39C"
+    },
+    {
+        "classDay1": "Monday",
+        "classDay2": "Wednesday",
+        "classTime": "08:00 AM-09:20 AM",
+        "roomNumber": "10H-38C"
+    },
+    {
+        "classDay1": "Monday",
+        "classDay2": "Wednesday",
+        "classTime": "09:30 AM-10:50 AM",
+        "roomNumber": "10H-38C"
+    },
+    {
+        "classDay1": "Monday",
+        "classDay2": "Wednesday",
+        "classTime": "11:00 AM-12:20 PM",
+        "roomNumber": "10H-38C"
+    },
+    {
+        "classDay1": "Sunday",
+        "classDay2": "Tuesday",
+        "classTime": "11:00 AM-12:20 PM",
+        "roomNumber": "10H-39C"
+    },
+    {
+        "classDay1": "Saturday",
+        "classDay2": "Thursday",
+        "classTime": "03:30 PM-04:50 PM",
+        "roomNumber": "10H-39C"
+    },
+    {
+        "classDay1": "Sunday",
+        "classDay2": "Tuesday",
+        "classTime": "08:00 AM-09:20 AM",
+        "roomNumber": "10H-39C"
+    },
+    {
+        "classDay1": "Sunday",
+        "classDay2": "Tuesday",
+        "classTime": "09:30 AM-10:50 AM",
+        "roomNumber": "10H-39C"
+    },
+    {
+        "classDay1": "Sunday",
+        "classDay2": "Tuesday",
+        "classTime": "12:30 PM-01:50 PM",
+        "roomNumber": "10H-39C"
+    },
+    {
+        "classDay1": "Sunday",
+        "classDay2": "Tuesday",
+        "classTime": "02:00 PM-03:20 PM",
+        "roomNumber": "10H-39C"
+    },
+    {
+        "classDay1": "Sunday",
+        "classDay2": "Tuesday",
+        "classTime": "03:30 PM-04:50 PM",
+        "roomNumber": "10F-29C"
+    },
+    {
+        "classDay1": "Monday",
+        "classDay2": "Wednesday",
+        "classTime": "09:30 AM-10:50 AM",
+        "roomNumber": "10F-29C"
+    },
+    {
+        "classDay1": "Monday",
+        "classDay2": "Wednesday",
+        "classTime": "05:00 PM-06:20 PM",
+        "roomNumber": "10F-29C"
+    },
+    {
+        "classDay1": "Saturday",
+        "classDay2": "Thursday",
+        "classTime": "11:00 AM-12:20 PM",
+        "roomNumber": "10F-29C"
+    },
+    {
+        "classDay1": "Saturday",
+        "classDay2": "Thursday",
+        "classTime": "11:00 AM-12:20 PM",
+        "roomNumber": "10F-31C"
+    },
+    {
+        "classDay1": "Saturday",
+        "classDay2": "Thursday",
+        "classTime": "03:30 PM-04:50 PM",
+        "roomNumber": "10F-31C"
+    },
+    {
+        "classDay1": "Saturday",
+        "classDay2": "Thursday",
+        "classTime": "05:00 PM-06:20 PM",
+        "roomNumber": "10F-31C"
+    },
+    {
+        "classDay1": "Sunday",
+        "classDay2": "Tuesday",
+        "classTime": "09:30 AM-10:50 AM",
+        "roomNumber": "10F-31C"
+    },
+    {
+        "classDay1": "Sunday",
+        "classDay2": "Tuesday",
+        "classTime": "02:00 PM-03:20 PM",
+        "roomNumber": "10F-31C"
+    },
+    {
+        "classDay1": "Sunday",
+        "classDay2": "Tuesday",
+        "classTime": "05:00 PM-06:20 PM",
+        "roomNumber": "10F-31C"
+    },
+    {
+        "classDay1": "Monday",
+        "classDay2": "Wednesday",
+        "classTime": "08:00 AM-09:20 AM",
+        "roomNumber": "10F-31C"
+    },
+    {
+        "classDay1": "Monday",
+        "classDay2": "Wednesday",
+        "classTime": "03:30 PM-04:50 PM",
+        "roomNumber": "10F-31C"
+    },
+    {
+        "classDay1": "Sunday",
+        "classDay2": "Thursday",
+        "classTime": "09:00 AM-12:05 PM-11A",
+        "roomNumber": "09L"
+    },
+    {
+        "classDay1": "Monday",
+        "classDay2": "Wednesday",
+        "classTime": "12:30 PM-01:50 PM",
+        "roomNumber": "10B-16C"
+    },
+    {
+        "classDay1": "Sunday",
+        "classDay2": "Thursday",
+        "classTime": "09:00 AM-12:05 PM-11A",
+        "roomNumber": "10L"
+    },
+    {
+        "classDay1": "Sunday",
+        "classDay2": "Thursday",
+        "classTime": "09:00 AM-12:05 PM-11A",
+        "roomNumber": "11L"
+    },
+    {
+        "classDay1": "Monday",
+        "classDay2": "Wednesday",
+        "classTime": "09:30 AM-10:50 AM",
+        "roomNumber": "09G-30C"
+    },
+    {
+        "classDay1": "Sunday",
+        "classDay2": "Tuesday",
+        "classTime": "08:00 AM-09:20 AM",
+        "roomNumber": "09G-30C"
+    },
+    {
+        "classDay1": "Monday",
+        "classDay2": "Wednesday",
+        "classTime": "11:00 AM-12:20 PM",
+        "roomNumber": "07H-29C"
+    },
+    {
+        "classDay1": "Monday",
+        "classDay2": "Wednesday",
+        "classTime": "12:30 PM-01:50 PM",
+        "roomNumber": "07H-31C"
+    },
+    {
+        "classDay1": "Monday",
+        "classDay2": "Wednesday",
+        "classTime": "11:00 AM-12:20 PM",
+        "roomNumber": "07B-18C"
+    },
+    {
+        "classDay1": "Monday",
+        "classDay2": "Wednesday",
+        "classTime": "09:30 AM-10:50 AM-08A",
+        "roomNumber": "03C"
+    },
+    {
+        "classDay1": "Sunday",
+        "classDay2": "Tuesday",
+        "classTime": "12:30 PM-01:50 PM-08A",
+        "roomNumber": "01C"
+    },
+    {
+        "classDay1": "Saturday",
+        "classDay2": "Thursday",
+        "classTime": "09:30 AM-10:50 AM-08A",
+        "roomNumber": "02C"
+    },
+    {
+        "classDay1": "Saturday",
+        "classDay2": "Thursday",
+        "classTime": "12:30 PM-01:50 PM-08A",
+        "roomNumber": "02C"
+    },
+    {
+        "classDay1": "Saturday",
+        "classDay2": "Thursday",
+        "classTime": "09:30 AM-10:50 AM-08A",
+        "roomNumber": "03C"
+    },
+    {
+        "classDay1": "Sunday",
+        "classDay2": "Tuesday",
+        "classTime": "09:30 AM-10:50 AM-08A",
+        "roomNumber": "01C"
+    },
+    {
+        "classDay1": "Monday",
+        "classDay2": "Wednesday",
+        "classTime": "12:30 PM-01:50 PM-08A",
+        "roomNumber": "03C"
+    },
+    {
+        "classDay1": "Monday",
+        "classDay2": "Wednesday",
+        "classTime": "09:30 AM-10:50 AM-08A",
+        "roomNumber": "02C"
+    },
+    {
+        "classDay1": "Sunday",
+        "classDay2": "Tuesday",
+        "classTime": "12:30 PM-01:50 PM-08A",
+        "roomNumber": "03C"
+    },
+    {
+        "classDay1": "Monday",
+        "classDay2": "Wednesday",
+        "classTime": "03:30 PM-04:50 PM-08A",
+        "roomNumber": "03C"
+    },
+    {
+        "classDay1": "Sunday",
+        "classDay2": "Tuesday",
+        "classTime": "09:30 AM-10:50 AM-08A",
+        "roomNumber": "04C"
+    },
+    {
+        "classDay1": "Monday",
+        "classDay2": "Wednesday",
+        "classTime": "11:00 AM-12:20 PM",
+        "roomNumber": "10B-12C"
+    },
+    {
+        "classDay1": "Monday",
+        "classDay2": "Wednesday",
+        "classTime": "08:00 AM-09:20 AM-08A",
+        "roomNumber": "02C"
+    },
+    {
+        "classDay1": "Monday",
+        "classDay2": "Wednesday",
+        "classTime": "02:00 PM-03:20 PM-08A",
+        "roomNumber": "02C"
+    },
+    {
+        "classDay1": "Monday",
+        "classDay2": "Wednesday",
+        "classTime": "09:30 AM-10:50 AM-08A",
+        "roomNumber": "01C"
+    },
+    {
+        "classDay1": "Monday",
+        "classDay2": "Wednesday",
+        "classTime": "02:00 PM-03:20 PM",
+        "roomNumber": "10B-12C"
+    },
+    {
+        "classDay1": "Monday",
+        "classDay2": "Wednesday",
+        "classTime": "02:00 PM-03:20 PM",
+        "roomNumber": "08D-12C"
+    },
+    {
+        "classDay1": "Monday",
+        "classDay2": "Wednesday",
+        "classTime": "03:30 PM-04:50 PM",
+        "roomNumber": "08B-08C"
+    },
+    {
+        "classDay1": "Sunday",
+        "classDay2": "Tuesday",
+        "classTime": "09:30 AM-10:50 AM",
+        "roomNumber": "08B-08C"
+    },
+    {
+        "classDay1": "Sunday",
+        "classDay2": "Tuesday",
+        "classTime": "12:30 PM-01:50 PM",
+        "roomNumber": "08B-08C"
+    },
+    {
+        "classDay1": "Sunday",
+        "classDay2": "Tuesday",
+        "classTime": "03:30 PM-04:50 PM",
+        "roomNumber": "08B-08C"
+    },
+    {
+        "classDay1": "Monday",
+        "classDay2": "Wednesday",
+        "classTime": "03:30 PM-04:50 PM",
+        "roomNumber": "08B-09C"
+    },
+    {
+        "classDay1": "Sunday",
+        "classDay2": "Tuesday",
+        "classTime": "11:00 AM-12:20 PM-08A",
+        "roomNumber": "02C"
+    },
+    {
+        "classDay1": "Sunday",
+        "classDay2": "Tuesday",
+        "classTime": "09:30 AM-10:50 AM-07A",
+        "roomNumber": "10C"
+    },
+    {
+        "classDay1": "Monday",
+        "classDay2": "Wednesday",
+        "classTime": "12:30 PM-01:50 PM-08A",
+        "roomNumber": "04C"
+    },
+    {
+        "classDay1": "Sunday",
+        "classDay2": "Tuesday",
+        "classTime": "08:00 AM-09:20 AM-08A",
+        "roomNumber": "01C"
+    },
+    {
+        "classDay1": "Sunday",
+        "classDay2": "Tuesday",
+        "classTime": "03:30 PM-04:50 PM-08A",
+        "roomNumber": "02C"
+    },
+    {
+        "classDay1": "Sunday",
+        "classDay2": "Tuesday",
+        "classTime": "12:30 PM-01:50 PM-08A",
+        "roomNumber": "04C"
+    },
+    {
+        "classDay1": "Sunday",
+        "classDay2": "Tuesday",
+        "classTime": "02:00 PM-03:20 PM-08A",
+        "roomNumber": "01C"
+    },
+    {
+        "classDay1": "Monday",
+        "classDay2": "Wednesday",
+        "classTime": "09:30 AM-10:50 AM-08A",
+        "roomNumber": "03C"
+    },
+    {
+        "classDay1": "Saturday",
+        "classDay2": "Thursday",
+        "classTime": "09:30 AM-10:50 AM-08A",
+        "roomNumber": "02C"
+    },
+    {
+        "classDay1": "Sunday",
+        "classDay2": "Tuesday",
+        "classTime": "12:30 PM-01:50 PM",
+        "roomNumber": "10B-12C"
+    },
+    {
+        "classDay1": "Saturday",
+        "classDay2": "Thursday",
+        "classTime": "12:30 PM-01:50 PM-08A",
+        "roomNumber": "02C"
+    },
+    {
+        "classDay1": "Monday",
+        "classDay2": "Wednesday",
+        "classTime": "09:30 AM-10:50 AM",
+        "roomNumber": "10B-12C"
+    },
+    {
+        "classDay1": "Sunday",
+        "classDay2": "Tuesday",
+        "classTime": "11:00 AM-12:20 PM",
+        "roomNumber": "10B-12C"
+    },
+    {
+        "classDay1": "Saturday",
+        "classDay2": "Thursday",
+        "classTime": "09:30 AM-10:50 AM-08A",
+        "roomNumber": "01C"
+    },
+    {
+        "classDay1": "Saturday",
+        "classDay2": "Thursday",
+        "classTime": "11:00 AM-12:20 PM-08A",
+        "roomNumber": "02C"
+    },
+    {
+        "classDay1": "Saturday",
+        "classDay2": "Thursday",
+        "classTime": "09:30 AM-10:50 AM-08A",
+        "roomNumber": "03C"
+    },
+    {
+        "classDay1": "Saturday",
+        "classDay2": "Thursday",
+        "classTime": "12:30 PM-01:50 PM",
+        "roomNumber": "10H-40C"
+    },
+    {
+        "classDay1": "Monday",
+        "classDay2": "Wednesday",
+        "classTime": "11:00 AM-12:20 PM-09A",
+        "roomNumber": "07C"
+    },
+    {
+        "classDay1": "Sunday",
+        "classDay2": "Tuesday",
+        "classTime": "09:30 AM-10:50 AM-08A",
+        "roomNumber": "02C"
+    },
+    {
+        "classDay1": "Monday",
+        "classDay2": "Wednesday",
+        "classTime": "02:00 PM-03:20 PM-08A",
+        "roomNumber": "03C"
+    },
+    {
+        "classDay1": "Sunday",
+        "classDay2": "Tuesday",
+        "classTime": "09:30 AM-10:50 AM-07A",
+        "roomNumber": "09C"
+    },
+    {
+        "classDay1": "Monday",
+        "classDay2": "Wednesday",
+        "classTime": "03:30 PM-04:50 PM",
+        "roomNumber": "08D-17C"
+    },
+    {
+        "classDay1": "Sunday",
+        "classDay2": "Tuesday",
+        "classTime": "12:30 PM-01:50 PM",
+        "roomNumber": "09G-31T"
+    },
+    {
+        "classDay1": "Sunday",
+        "classDay2": "Tuesday",
+        "classTime": "08:00 AM-09:20 AM",
+        "roomNumber": "08D-17C"
+    },
+    {
+        "classDay1": "Sunday",
+        "classDay2": "Tuesday",
+        "classTime": "12:30 PM-01:50 PM",
+        "roomNumber": "08F-20C"
+    },
+    {
+        "classDay1": "Monday",
+        "classDay2": "Wednesday",
+        "classTime": "08:00 AM-09:20 AM",
+        "roomNumber": "08D-17C"
+    },
+    {
+        "classDay1": "Monday",
+        "classDay2": "Wednesday",
+        "classTime": "09:30 AM-10:50 AM",
+        "roomNumber": "08D-17C"
+    },
+    {
+        "classDay1": "Monday",
+        "classDay2": "Wednesday",
+        "classTime": "12:30 PM-01:50 PM",
+        "roomNumber": "08D-17C"
+    },
+    {
+        "classDay1": "Sunday",
+        "classDay2": "Tuesday",
+        "classTime": "02:00 PM-03:20 PM",
+        "roomNumber": "10H-37C"
+    },
+    {
+        "classDay1": "Monday",
+        "classDay2": "Wednesday",
+        "classTime": "12:30 PM-01:50 PM",
+        "roomNumber": "10H-37C"
+    },
+    {
+        "classDay1": "Sunday",
+        "classDay2": "Tuesday",
+        "classTime": "02:00 PM-03:20 PM",
+        "roomNumber": "09D-19C"
+    },
+    {
+        "classDay1": "Monday",
+        "classDay2": "Wednesday",
+        "classTime": "05:00 PM-06:20 PM",
+        "roomNumber": "08D-17C"
+    },
+    {
+        "classDay1": "Monday",
+        "classDay2": "Wednesday",
+        "classTime": "11:00 AM-12:20 PM",
+        "roomNumber": "08F-20C"
+    },
+    {
+        "classDay1": "Saturday",
+        "classDay2": "Thursday",
+        "classTime": "05:00 PM-06:20 PM",
+        "roomNumber": "10B-18C"
+    },
+    {
+        "classDay1": "Saturday",
+        "classDay2": "Thursday",
+        "classTime": "03:30 PM-04:50 PM",
+        "roomNumber": "09G-30C"
+    },
+    {
+        "classDay1": "Monday",
+        "classDay2": "Wednesday",
+        "classTime": "12:30 PM-01:50 PM",
+        "roomNumber": "10B-18C"
+    },
+    {
+        "classDay1": "Monday",
+        "classDay2": "Wednesday",
+        "classTime": "09:30 AM-10:50 AM",
+        "roomNumber": "07H-28C"
+    },
+    {
+        "classDay1": "Sunday",
+        "classDay2": "Tuesday",
+        "classTime": "02:00 PM-03:20 PM",
+        "roomNumber": "09G-30C"
+    },
+    {
+        "classDay1": "Monday",
+        "classDay2": "Wednesday",
+        "classTime": "11:00 AM-12:20 PM",
+        "roomNumber": "10D-23C"
+    },
+    {
+        "classDay1": "Monday",
+        "classDay2": "Wednesday",
+        "classTime": "02:00 PM-03:20 PM-11A",
+        "roomNumber": "02L"
+    },
+    {
+        "classDay1": "Sunday",
+        "classDay2": "Tuesday",
+        "classTime": "03:30 PM-04:50 PM-12A",
+        "roomNumber": "07C"
+    },
+    {
+        "classDay1": "Monday",
+        "classDay2": "Wednesday",
+        "classTime": "11:00 AM-12:20 PM",
+        "roomNumber": "09H-34C"
+    },
+    {
+        "classDay1": "Saturday",
+        "classDay2": "Thursday",
+        "classTime": "03:30 PM-04:50 PM",
+        "roomNumber": "10B-18C"
+    },
+    {
+        "classDay1": "Monday",
+        "classDay2": "Wednesday",
+        "classTime": "09:30 AM-10:50 AM-07A",
+        "roomNumber": "10C"
+    },
+    {
+        "classDay1": "Sunday",
+        "classDay2": "Tuesday",
+        "classTime": "11:00 AM-12:20 PM-07A",
+        "roomNumber": "10C"
+    },
+    {
+        "classDay1": "Monday",
+        "classDay2": "Wednesday",
+        "classTime": "11:00 AM-12:20 PM-07A",
+        "roomNumber": "10C"
+    },
+    {
+        "classDay1": "Sunday",
+        "classDay2": "Tuesday",
+        "classTime": "12:30 PM-01:50 PM-07A",
+        "roomNumber": "10C"
+    },
+    {
+        "classDay1": "Monday",
+        "classDay2": "Wednesday",
+        "classTime": "12:30 PM-01:50 PM-07A",
+        "roomNumber": "10C"
+    },
+    {
+        "classDay1": "Sunday",
+        "classDay2": "Tuesday",
+        "classTime": "02:00 PM-03:20 PM-07A",
+        "roomNumber": "10C"
+    },
+    {
+        "classDay1": "Monday",
+        "classDay2": "Wednesday",
+        "classTime": "02:00 PM-03:20 PM-07A",
+        "roomNumber": "10C"
+    },
+    {
+        "classDay1": "Sunday",
+        "classDay2": "Tuesday",
+        "classTime": "09:30 AM-10:50 AM-08A",
+        "roomNumber": "06C"
+    },
+    {
+        "classDay1": "Monday",
+        "classDay2": "Wednesday",
+        "classTime": "11:00 AM-12:20 PM",
+        "roomNumber": "08B-07C"
+    },
+    {
+        "classDay1": "Sunday",
+        "classDay2": "Tuesday",
+        "classTime": "02:00 PM-03:20 PM-11A",
+        "roomNumber": "01L"
+    },
+    {
+        "classDay1": "Monday",
+        "classDay2": "Wednesday",
+        "classTime": "09:30 AM-10:50 AM",
+        "roomNumber": "10B-16C"
+    },
+    {
+        "classDay1": "Sunday",
+        "classDay2": "Tuesday",
+        "classTime": "03:30 PM-04:50 PM-11A",
+        "roomNumber": "02L"
+    },
+    {
+        "classDay1": "Saturday",
+        "classDay2": "Thursday",
+        "classTime": "08:00 AM-09:20 AM",
+        "roomNumber": "10B-16C"
+    },
+    {
+        "classDay1": "Sunday",
+        "classDay2": "Tuesday",
+        "classTime": "11:00 AM-12:20 PM",
+        "roomNumber": "09G-30C"
+    },
+    {
+        "classDay1": "Sunday",
+        "classDay2": "Tuesday",
+        "classTime": "02:00 PM-03:20 PM",
+        "roomNumber": "09D-18C"
+    },
+    {
+        "classDay1": "Monday",
+        "classDay2": "Wednesday",
+        "classTime": "05:00 PM-06:20 PM",
+        "roomNumber": "10B-18C"
+    },
+    {
+        "classDay1": "Monday",
+        "classDay2": "Wednesday",
+        "classTime": "11:00 AM-12:20 PM",
+        "roomNumber": "08F-18C"
+    },
+    {
+        "classDay1": "Sunday",
+        "classDay2": "Tuesday",
+        "classTime": "11:00 AM-12:20 PM-12A",
+        "roomNumber": "08C"
+    },
+    {
+        "classDay1": "Sunday",
+        "classDay2": "Tuesday",
+        "classTime": "09:30 AM-10:50 AM",
+        "roomNumber": "10H-37C"
+    },
+    {
+        "classDay1": "Sunday",
+        "classDay2": "Tuesday",
+        "classTime": "12:30 PM-01:50 PM",
+        "roomNumber": "10B-16C"
+    },
+    {
+        "classDay1": "Sunday",
+        "classDay2": "Tuesday",
+        "classTime": "11:00 AM-12:20 PM",
+        "roomNumber": "10D-23C"
+    },
+    {
+        "classDay1": "Monday",
+        "classDay2": "Wednesday",
+        "classTime": "03:30 PM-04:50 PM-11A",
+        "roomNumber": "02L"
+    },
+    {
+        "classDay1": "Sunday",
+        "classDay2": "Tuesday",
+        "classTime": "03:30 PM-04:50 PM",
+        "roomNumber": "07D-19C"
+    },
+    {
+        "classDay1": "Monday",
+        "classDay2": "Wednesday",
+        "classTime": "03:30 PM-04:50 PM",
+        "roomNumber": "07B-18C"
+    },
+    {
+        "classDay1": "Sunday",
+        "classDay2": "Thursday",
+        "classTime": "09:00 AM-12:05 PM-11A",
+        "roomNumber": "08L"
+    },
+    {
+        "classDay1": "Saturday",
+        "classDay2": "Thursday",
+        "classTime": "12:30 PM-01:50 PM",
+        "roomNumber": "08B-10C"
+    },
+    {
+        "classDay1": "Sunday",
+        "classDay2": "Tuesday",
+        "classTime": "02:00 PM-03:20 PM",
+        "roomNumber": "07B-17C"
+    },
+    {
+        "classDay1": "Sunday",
+        "classDay2": "Tuesday",
+        "classTime": "03:30 PM-04:50 PM",
+        "roomNumber": "07H-31C"
+    },
+    {
+        "classDay1": "Sunday",
+        "classDay2": "Tuesday",
+        "classTime": "12:30 PM-01:50 PM-12A",
+        "roomNumber": "08C"
+    },
+    {
+        "classDay1": "Sunday",
+        "classDay2": "Tuesday",
+        "classTime": "03:30 PM-04:50 PM",
+        "roomNumber": "10H-37C"
+    },
+    {
+        "classDay1": "Monday",
+        "classDay2": "Wednesday",
+        "classTime": "11:00 AM-12:20 PM-07A",
+        "roomNumber": "08C"
+    },
+    {
+        "classDay1": "Sunday",
+        "classDay2": "Tuesday",
+        "classTime": "11:00 AM-12:20 PM",
+        "roomNumber": "10B-16C"
+    },
+    {
+        "classDay1": "Monday",
+        "classDay2": "Wednesday",
+        "classTime": "11:00 AM-12:20 PM-11A",
+        "roomNumber": "01L"
+    },
+    {
+        "classDay1": "Sunday",
+        "classDay2": "Tuesday",
+        "classTime": "05:00 PM-06:20 PM",
+        "roomNumber": "08B-08C"
+    },
+    {
+        "classDay1": "Sunday",
+        "classDay2": "Tuesday",
+        "classTime": "11:00 AM-12:20 PM",
+        "roomNumber": "08B-08C"
+    },
+    {
+        "classDay1": "Sunday",
+        "classDay2": "Tuesday",
+        "classTime": "02:00 PM-03:20 PM",
+        "roomNumber": "08B-08C"
+    },
+    {
+        "classDay1": "Monday",
+        "classDay2": "Wednesday",
+        "classTime": "03:30 PM-04:50 PM",
+        "roomNumber": "07D-21C"
+    },
+    {
+        "classDay1": "Monday",
+        "classDay2": "Wednesday",
+        "classTime": "03:30 PM-04:50 PM",
+        "roomNumber": "09C-14C"
+    },
+    {
+        "classDay1": "Monday",
+        "classDay2": "Wednesday",
+        "classTime": "02:00 PM-03:20 PM",
+        "roomNumber": "10H-39C"
+    },
+    {
+        "classDay1": "Monday",
+        "classDay2": "Wednesday",
+        "classTime": "03:30 PM-04:50 PM",
+        "roomNumber": "10H-39C"
+    },
+    {
+        "classDay1": "Monday",
+        "classDay2": "Wednesday",
+        "classTime": "11:00 AM-12:20 PM",
+        "roomNumber": "09H-35C"
+    },
+    {
+        "classDay1": "Monday",
+        "classDay2": "Wednesday",
+        "classTime": "03:30 PM-04:50 PM-10A",
+        "roomNumber": "10C"
+    },
+    {
+        "classDay1": "Saturday",
+        "classDay2": "Thursday",
+        "classTime": "03:30 PM-04:50 PM-12A",
+        "roomNumber": "07C"
+    },
+    {
+        "classDay1": "Sunday",
+        "classDay2": "Tuesday",
+        "classTime": "08:00 AM-09:20 AM",
+        "roomNumber": "10F-29C"
+    },
+    {
+        "classDay1": "Sunday",
+        "classDay2": "Tuesday",
+        "classTime": "08:00 AM-09:20 AM",
+        "roomNumber": "07H-26C"
+    },
+    {
+        "classDay1": "Sunday",
+        "classDay2": "Tuesday",
+        "classTime": "03:30 PM-04:50 PM-10A",
+        "roomNumber": "06C"
+    },
+    {
+        "classDay1": "Saturday",
+        "classDay2": "Thursday",
+        "classTime": "02:00 PM-03:20 PM",
+        "roomNumber": "09D-18C"
+    },
+    {
+        "classDay1": "Sunday",
+        "classDay2": "Tuesday",
+        "classTime": "02:00 PM-03:20 PM",
+        "roomNumber": "08B-09C"
+    },
+    {
+        "classDay1": "Monday",
+        "classDay2": "Wednesday",
+        "classTime": "09:30 AM-10:50 AM-10A",
+        "roomNumber": "07C"
+    },
+    {
+        "classDay1": "Monday",
+        "classDay2": "Wednesday",
+        "classTime": "12:15 PM-01:10 PM",
+        "roomNumber": "11B-24L"
+    },
+    {
+        "classDay1": "Monday",
+        "classDay2": "Wednesday",
+        "classTime": "02:00 PM-02:55 PM-11A",
+        "roomNumber": "11L"
+    },
+    {
+        "classDay1": "Monday",
+        "classDay2": "Wednesday",
+        "classTime": "12:15 PM-01:10 PM-11A",
+        "roomNumber": "12L"
+    },
+    {
+        "classDay1": "Sunday",
+        "classDay2": "Tuesday",
+        "classTime": "12:30 PM-01:50 PM",
+        "roomNumber": "08B-10C"
+    },
+    {
+        "classDay1": "Sunday",
+        "classDay2": "Tuesday",
+        "classTime": "02:00 PM-03:20 PM",
+        "roomNumber": "08B-10C"
+    },
+    {
+        "classDay1": "Sunday",
+        "classDay2": "Tuesday",
+        "classTime": "12:30 PM-01:50 PM-10A",
+        "roomNumber": "07C"
+    },
+    {
+        "classDay1": "Sunday",
+        "classDay2": "Tuesday",
+        "classTime": "12:30 PM-01:50 PM",
+        "roomNumber": "09B-12C"
+    },
+    {
+        "classDay1": "Sunday",
+        "classDay2": "Tuesday",
+        "classTime": "11:00 AM-12:20 PM",
+        "roomNumber": "08D-12C"
+    },
+    {
+        "classDay1": "Monday",
+        "classDay2": "Wednesday",
+        "classTime": "03:30 PM-04:50 PM-09A",
+        "roomNumber": "07C"
+    },
+    {
+        "classDay1": "Sunday",
+        "classDay2": "Tuesday",
+        "classTime": "05:00 PM-06:20 PM",
+        "roomNumber": "10F-29C"
+    },
+    {
+        "classDay1": "Sunday",
+        "classDay2": "Tuesday",
+        "classTime": "11:00 AM-12:20 PM-08A",
+        "roomNumber": "01C"
+    },
+    {
+        "classDay1": "Monday",
+        "classDay2": "Wednesday",
+        "classTime": "12:30 PM-01:50 PM",
+        "roomNumber": "09C-15C"
+    },
+    {
+        "classDay1": "Sunday",
+        "classDay2": "Tuesday",
+        "classTime": "09:30 AM-10:50 AM-11A",
+        "roomNumber": "01L"
+    },
+    {
+        "classDay1": "Sunday",
+        "classDay2": "Tuesday",
+        "classTime": "03:30 PM-04:50 PM",
+        "roomNumber": "10B-16C"
+    },
+    {
+        "classDay1": "Sunday",
+        "classDay2": "Tuesday",
+        "classTime": "02:00 PM-03:20 PM",
+        "roomNumber": "08D-17C"
+    },
+    {
+        "classDay1": "Saturday",
+        "classDay2": "Thursday",
+        "classTime": "09:30 AM-10:50 AM",
+        "roomNumber": "09H-33C"
+    },
+    {
+        "classDay1": "Saturday",
+        "classDay2": "Thursday",
+        "classTime": "08:00 AM-09:20 AM",
+        "roomNumber": "08B-10C"
+    },
+    {
+        "classDay1": "Saturday",
+        "classDay2": "Thursday",
+        "classTime": "12:30 PM-01:50 PM",
+        "roomNumber": "09G-29C"
+    },
+    {
+        "classDay1": "Sunday",
+        "classDay2": "Tuesday",
+        "classTime": "03:30 PM-04:50 PM",
+        "roomNumber": "10H-39C"
+    },
+    {
+        "classDay1": "Sunday",
+        "classDay2": "Tuesday",
+        "classTime": "03:30 PM-04:50 PM",
+        "roomNumber": "10B-12C"
+    },
+    {
+        "classDay1": "Saturday",
+        "classDay2": "Thursday",
+        "classTime": "09:30 AM-10:50 AM",
+        "roomNumber": "07H-27C"
+    },
+    {
+        "classDay1": "Monday",
+        "classDay2": "Wednesday",
+        "classTime": "09:30 AM-10:50 AM",
+        "roomNumber": "08B-08C"
+    },
+    {
+        "classDay1": "Monday",
+        "classDay2": "Wednesday",
+        "classTime": "12:30 PM-01:50 PM",
+        "roomNumber": "07F-22C"
+    },
+    {
+        "classDay1": "Monday",
+        "classDay2": "Wednesday",
+        "classTime": "02:00 PM-03:20 PM",
+        "roomNumber": "09H-35C"
+    },
+    {
+        "classDay1": "Saturday",
+        "classDay2": "Thursday",
+        "classTime": "02:00 PM-03:20 PM",
+        "roomNumber": "08B-09C"
+    },
+    {
+        "classDay1": "Monday",
+        "classDay2": "Wednesday",
+        "classTime": "09:30 AM-10:50 AM-09A",
+        "roomNumber": "07C"
+    },
+    {
+        "classDay1": "Sunday",
+        "classDay2": "Tuesday",
+        "classTime": "12:30 PM-01:50 PM",
+        "roomNumber": "10H-40C"
+    },
+    {
+        "classDay1": "Saturday",
+        "classDay2": "Thursday",
+        "classTime": "03:30 PM-04:50 PM",
+        "roomNumber": "10F-29C"
+    },
+    {
+        "classDay1": "Saturday",
+        "classDay2": "Thursday",
+        "classTime": "11:00 AM-12:20 PM-08A",
+        "roomNumber": "02C"
+    },
+    {
+        "classDay1": "Sunday",
+        "classDay2": "Tuesday",
+        "classTime": "09:30 AM-10:50 AM-08A",
+        "roomNumber": "03C"
+    },
+    {
+        "classDay1": "Saturday",
+        "classDay2": "Thursday",
+        "classTime": "05:00 PM-06:20 PM",
+        "roomNumber": "10B-16C"
+    },
+    {
+        "classDay1": "Monday",
+        "classDay2": "Wednesday",
+        "classTime": "02:00 PM-03:20 PM",
+        "roomNumber": "10B-17C"
+    },
+    {
+        "classDay1": "Sunday",
+        "classDay2": "Tuesday",
+        "classTime": "02:00 PM-03:20 PM-11A",
+        "roomNumber": "02L"
+    },
+    {
+        "classDay1": "Monday",
+        "classDay2": "Wednesday",
+        "classTime": "02:00 PM-03:20 PM",
+        "roomNumber": "09H-34C"
+    },
+    {
+        "classDay1": "Monday",
+        "classDay2": "Wednesday",
+        "classTime": "09:30 AM-10:50 AM",
+        "roomNumber": "08B-09C"
+    },
+    {
+        "classDay1": "Monday",
+        "classDay2": "Wednesday",
+        "classTime": "11:00 AM-12:20 PM",
+        "roomNumber": "08B-08C"
+    },
+    {
+        "classDay1": "Monday",
+        "classDay2": "Wednesday",
+        "classTime": "12:30 PM-01:50 PM",
+        "roomNumber": "08B-08C"
+    },
+    {
+        "classDay1": "Monday",
+        "classDay2": "Wednesday",
+        "classTime": "11:00 AM-12:20 PM",
+        "roomNumber": "08B-09C"
+    },
+    {
+        "classDay1": "Sunday",
+        "classDay2": "Tuesday",
+        "classTime": "11:00 AM-12:20 PM",
+        "roomNumber": "07H-30C"
+    },
+    {
+        "classDay1": "Sunday",
+        "classDay2": "Tuesday",
+        "classTime": "09:30 AM-10:50 AM",
+        "roomNumber": "07H-30C"
+    },
+    {
+        "classDay1": "Monday",
+        "classDay2": "Wednesday",
+        "classTime": "03:30 PM-04:50 PM",
+        "roomNumber": "07H-31C"
+    },
+    {
+        "classDay1": "Monday",
+        "classDay2": "Wednesday",
+        "classTime": "02:00 PM-03:20 PM",
+        "roomNumber": "08D-17C"
+    },
+    {
+        "classDay1": "Monday",
+        "classDay2": "Wednesday",
+        "classTime": "12:30 PM-01:50 PM",
+        "roomNumber": "08F-18C"
+    },
+    {
+        "classDay1": "Monday",
+        "classDay2": "Wednesday",
+        "classTime": "03:30 PM-04:50 PM-09A",
+        "roomNumber": "02C"
+    },
+    {
+        "classDay1": "Monday",
+        "classDay2": "Wednesday",
+        "classTime": "08:00 AM-09:20 AM",
+        "roomNumber": "09D-17C"
+    },
+    {
+        "classDay1": "Monday",
+        "classDay2": "Wednesday",
+        "classTime": "12:30 PM-01:50 PM",
+        "roomNumber": "07H-27C"
+    },
+    {
+        "classDay1": "Monday",
+        "classDay2": "Wednesday",
+        "classTime": "02:00 PM-03:20 PM",
+        "roomNumber": "07H-27C"
+    },
+    {
+        "classDay1": "Saturday",
+        "classDay2": "Thursday",
+        "classTime": "12:30 PM-01:50 PM",
+        "roomNumber": "07F-22C"
+    },
+    {
+        "classDay1": "Monday",
+        "classDay2": "Wednesday",
+        "classTime": "02:00 PM-03:20 PM",
+        "roomNumber": "08F-18C"
+    },
+    {
+        "classDay1": "Monday",
+        "classDay2": "Wednesday",
+        "classTime": "02:00 PM-03:20 PM",
+        "roomNumber": "10F-31C"
+    },
+    {
+        "classDay1": "Sunday",
+        "classDay2": "Tuesday",
+        "classTime": "11:00 AM-12:20 PM",
+        "roomNumber": "10H-38C"
+    },
+    {
+        "classDay1": "Sunday",
+        "classDay2": "Tuesday",
+        "classTime": "12:30 PM-01:50 PM-12A",
+        "roomNumber": "07C"
+    },
+    {
+        "classDay1": "Monday",
+        "classDay2": "Wednesday",
+        "classTime": "12:15 PM-01:10 PM-11A",
+        "roomNumber": "07L"
+    },
+    {
+        "classDay1": "Monday",
+        "classDay2": "Wednesday",
+        "classTime": "08:00 AM-09:20 AM-09A",
+        "roomNumber": "03C"
+    },
+    {
+        "classDay1": "Sunday",
+        "classDay2": "Tuesday",
+        "classTime": "03:30 PM-04:50 PM",
+        "roomNumber": "08D-17C"
+    },
+    {
+        "classDay1": "Saturday",
+        "classDay2": "Thursday",
+        "classTime": "03:30 PM-04:50 PM",
+        "roomNumber": "07H-26C"
+    },
+    {
+        "classDay1": "Sunday",
+        "classDay2": "Tuesday",
+        "classTime": "11:00 AM-12:20 PM",
+        "roomNumber": "09B-12C"
+    },
+    {
+        "classDay1": "Monday",
+        "classDay2": "Wednesday",
+        "classTime": "02:00 PM-03:20 PM",
+        "roomNumber": "09D-18C"
+    },
+    {
+        "classDay1": "Monday",
+        "classDay2": "Wednesday",
+        "classTime": "03:30 PM-04:50 PM",
+        "roomNumber": "09D-18C"
+    },
+    {
+        "classDay1": "Monday",
+        "classDay2": "Wednesday",
+        "classTime": "08:00 AM-09:20 AM",
+        "roomNumber": "08B-09C"
+    },
+    {
+        "classDay1": "Monday",
+        "classDay2": "Wednesday",
+        "classTime": "03:30 PM-04:50 PM",
+        "roomNumber": "09H-37C"
+    },
+    {
+        "classDay1": "Monday",
+        "classDay2": "Wednesday",
+        "classTime": "02:00 PM-03:20 PM",
+        "roomNumber": "09C-13C"
+    },
+    {
+        "classDay1": "Monday",
+        "classDay2": "Wednesday",
+        "classTime": "09:30 AM-10:50 AM",
+        "roomNumber": "10B-17C"
+    },
+    {
+        "classDay1": "Monday",
+        "classDay2": "Wednesday",
+        "classTime": "11:00 AM-12:20 PM",
+        "roomNumber": "10H-40C"
+    },
+    {
+        "classDay1": "Monday",
+        "classDay2": "Wednesday",
+        "classTime": "12:30 PM-01:50 PM",
+        "roomNumber": "08B-09C"
+    },
+    {
+        "classDay1": "Sunday",
+        "classDay2": "Tuesday",
+        "classTime": "02:00 PM-03:20 PM",
+        "roomNumber": "09H-34C"
+    },
+    {
+        "classDay1": "Monday",
+        "classDay2": "Wednesday",
+        "classTime": "12:30 PM-01:50 PM-09A",
+        "roomNumber": "01C"
+    },
+    {
+        "classDay1": "Monday",
+        "classDay2": "Wednesday",
+        "classTime": "05:00 PM-06:20 PM",
+        "roomNumber": "08B-09C"
+    },
+    {
+        "classDay1": "Monday",
+        "classDay2": "Wednesday",
+        "classTime": "12:30 PM-01:50 PM",
+        "roomNumber": "08B-10C"
+    },
+    {
+        "classDay1": "Monday",
+        "classDay2": "Wednesday",
+        "classTime": "02:00 PM-03:20 PM",
+        "roomNumber": "08B-10C"
+    },
+    {
+        "classDay1": "Monday",
+        "classDay2": "Wednesday",
+        "classTime": "02:00 PM-03:20 PM",
+        "roomNumber": "09G-31T"
+    },
+    {
+        "classDay1": "Sunday",
+        "classDay2": "Tuesday",
+        "classTime": "12:30 PM-01:50 PM",
+        "roomNumber": "10B-17C"
+    },
+    {
+        "classDay1": "Saturday",
+        "classDay2": "Thursday",
+        "classTime": "11:00 AM-12:20 PM",
+        "roomNumber": "10B-16C"
+    },
+    {
+        "classDay1": "Monday",
+        "classDay2": "Wednesday",
+        "classTime": "12:30 PM-01:50 PM",
+        "roomNumber": "10B-17C"
+    },
+    {
+        "classDay1": "Sunday",
+        "classDay2": "Tuesday",
+        "classTime": "11:00 AM-12:20 PM",
+        "roomNumber": "08F-18C"
+    },
+    {
+        "classDay1": "Sunday",
+        "classDay2": "Tuesday",
+        "classTime": "12:30 PM-01:50 PM",
+        "roomNumber": "07B-17C"
+    },
+    {
+        "classDay1": "Sunday",
+        "classDay2": "Tuesday",
+        "classTime": "09:30 AM-10:50 AM",
+        "roomNumber": "10B-17C"
+    },
+    {
+        "classDay1": "Monday",
+        "classDay2": "Wednesday",
+        "classTime": "02:00 PM-03:20 PM",
+        "roomNumber": "10D-23C"
+    },
+    {
+        "classDay1": "Monday",
+        "classDay2": "Wednesday",
+        "classTime": "11:00 AM-12:20 PM",
+        "roomNumber": "07H-28C"
+    },
+    {
+        "classDay1": "Monday",
+        "classDay2": "Wednesday",
+        "classTime": "09:30 AM-10:50 AM",
+        "roomNumber": "07H-26C"
+    },
+    {
+        "classDay1": "Sunday",
+        "classDay2": "Tuesday",
+        "classTime": "03:30 PM-04:50 PM",
+        "roomNumber": "08B-09C"
+    },
+    {
+        "classDay1": "Monday",
+        "classDay2": "Wednesday",
+        "classTime": "09:30 AM-10:50 AM",
+        "roomNumber": "07H-29C"
+    },
+    {
+        "classDay1": "Sunday",
+        "classDay2": "Tuesday",
+        "classTime": "11:00 AM-12:20 PM",
+        "roomNumber": "09H-34C"
+    },
+    {
+        "classDay1": "Monday",
+        "classDay2": "Wednesday",
+        "classTime": "03:30 PM-04:50 PM-08A",
+        "roomNumber": "03C"
+    },
+    {
+        "classDay1": "Saturday",
+        "classDay2": "Thursday",
+        "classTime": "09:30 AM-10:50 AM-12A",
+        "roomNumber": "07C"
+    },
+    {
+        "classDay1": "Saturday",
+        "classDay2": "Thursday",
+        "classTime": "11:00 AM-12:20 PM",
+        "roomNumber": "09D-18C"
+    },
+    {
+        "classDay1": "Saturday",
+        "classDay2": "Thursday",
+        "classTime": "12:30 PM-01:50 PM",
+        "roomNumber": "09D-18C"
+    },
+    {
+        "classDay1": "Monday",
+        "classDay2": "Wednesday",
+        "classTime": "12:30 PM-01:50 PM",
+        "roomNumber": "07H-29C"
+    },
+    {
+        "classDay1": "Monday",
+        "classDay2": "Wednesday",
+        "classTime": "12:30 PM-01:50 PM",
+        "roomNumber": "09G-30C"
+    },
+    {
+        "classDay1": "Monday",
+        "classDay2": "Wednesday",
+        "classTime": "03:30 PM-04:50 PM",
+        "roomNumber": "08B-10C"
+    },
+    {
+        "classDay1": "Sunday",
+        "classDay2": "Tuesday",
+        "classTime": "11:00 AM-12:20 PM",
+        "roomNumber": "07H-29C"
+    },
+    {
+        "classDay1": "Sunday",
+        "classDay2": "Tuesday",
+        "classTime": "03:30 PM-04:50 PM",
+        "roomNumber": "07H-29C"
+    },
+    {
+        "classDay1": "Sunday",
+        "classDay2": "Tuesday",
+        "classTime": "09:30 AM-10:50 AM",
+        "roomNumber": "07H-31C"
+    },
+    {
+        "classDay1": "Sunday",
+        "classDay2": "Tuesday",
+        "classTime": "08:00 AM-09:20 AM",
+        "roomNumber": "10B-17C"
+    },
+    {
+        "classDay1": "Monday",
+        "classDay2": "Wednesday",
+        "classTime": "09:30 AM-10:50 AM",
+        "roomNumber": "07B-18C"
+    },
+    {
+        "classDay1": "Monday",
+        "classDay2": "Wednesday",
+        "classTime": "12:30 PM-01:50 PM",
+        "roomNumber": "07B-18C"
+    },
+    {
+        "classDay1": "Saturday",
+        "classDay2": "Thursday",
+        "classTime": "09:30 AM-10:50 AM-10A",
+        "roomNumber": "07C"
+    },
+    {
+        "classDay1": "Sunday",
+        "classDay2": "Tuesday",
+        "classTime": "03:30 PM-04:50 PM",
+        "roomNumber": "10B-18C"
+    },
+    {
+        "classDay1": "Sunday",
+        "classDay2": "Tuesday",
+        "classTime": "03:30 PM-04:50 PM-08A",
+        "roomNumber": "01C"
+    },
+    {
+        "classDay1": "Sunday",
+        "classDay2": "Tuesday",
+        "classTime": "03:30 PM-04:50 PM",
+        "roomNumber": "08F-18C"
+    },
+    {
+        "classDay1": "Sunday",
+        "classDay2": "Tuesday",
+        "classTime": "09:30 AM-10:50 AM",
+        "roomNumber": "07B-17C"
+    },
+    {
+        "classDay1": "Monday",
+        "classDay2": "Wednesday",
+        "classTime": "02:00 PM-02:55 PM",
+        "roomNumber": "UB1424"
+    },
+    {
+        "classDay1": "Monday",
+        "classDay2": "Wednesday",
+        "classTime": "03:30 PM-04:50 PM",
+        "roomNumber": "10B-17C"
+    },
+    {
+        "classDay1": "Sunday",
+        "classDay2": "Tuesday",
+        "classTime": "11:00 AM-12:20 PM",
+        "roomNumber": "10B-18C"
+    },
+    {
+        "classDay1": "Saturday",
+        "classDay2": "Thursday",
+        "classTime": "03:30 PM-04:50 PM-07A",
+        "roomNumber": "09C"
+    },
+    {
+        "classDay1": "Monday",
+        "classDay2": "Wednesday",
+        "classTime": "09:30 AM-10:50 AM",
+        "roomNumber": "07H-30C"
+    },
+    {
+        "classDay1": "Sunday",
+        "classDay2": "Tuesday",
+        "classTime": "03:30 PM-04:50 PM",
+        "roomNumber": "07H-30C"
+    },
+    {
+        "classDay1": "Monday",
+        "classDay2": "Wednesday",
+        "classTime": "11:00 AM-12:20 PM",
+        "roomNumber": "07H-30C"
+    },
+    {
+        "classDay1": "Monday",
+        "classDay2": "Wednesday",
+        "classTime": "02:00 PM-03:20 PM",
+        "roomNumber": "08F-20C"
+    },
+    {
+        "classDay1": "Monday",
+        "classDay2": "Wednesday",
+        "classTime": "03:30 PM-04:50 PM",
+        "roomNumber": "08F-20C"
+    },
+    {
+        "classDay1": "Saturday",
+        "classDay2": "Thursday",
+        "classTime": "03:30 PM-04:50 PM",
+        "roomNumber": "10B-16C"
+    },
+    {
+        "classDay1": "Monday",
+        "classDay2": "Wednesday",
+        "classTime": "03:05 PM-04:00 PM-11A",
+        "roomNumber": "12L"
+    },
+    {
+        "classDay1": "Saturday",
+        "classDay2": "Thursday",
+        "classTime": "09:30 AM-10:50 AM",
+        "roomNumber": "08B-07C"
+    },
+    {
+        "classDay1": "Saturday",
+        "classDay2": "Thursday",
+        "classTime": "09:30 AM-10:50 AM",
+        "roomNumber": "10H-39C"
+    },
+    {
+        "classDay1": "Monday",
+        "classDay2": "Wednesday",
+        "classTime": "02:00 PM-03:20 PM",
+        "roomNumber": "09G-31T"
+    },
+    {
+        "classDay1": "Sunday",
+        "classDay2": "Tuesday",
+        "classTime": "02:00 PM-03:20 PM-12A",
+        "roomNumber": "07C"
+    },
+    {
+        "classDay1": "Sunday",
+        "classDay2": "Tuesday",
+        "classTime": "09:30 AM-10:50 AM-08A",
+        "roomNumber": "04C"
+    },
+    {
+        "classDay1": "Saturday",
+        "classDay2": "Thursday",
+        "classTime": "03:30 PM-04:50 PM",
+        "roomNumber": "07D-20C"
+    },
+    {
+        "classDay1": "Sunday",
+        "classDay2": "Tuesday",
+        "classTime": "03:30 PM-04:50 PM",
+        "roomNumber": "07B-17C"
+    },
+    {
+        "classDay1": "Saturday",
+        "classDay2": "Thursday",
+        "classTime": "08:00 AM-09:20 AM-10A",
+        "roomNumber": "04C"
+    }
+]

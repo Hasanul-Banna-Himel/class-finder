@@ -53,11 +53,11 @@
 
             try {
                 // Fetch schedule data from JSON file
-                const response = await fetch('free_class.json');
+                const response = await fetch('output.json');
                 const scheduleData = await response.json();
 
                 // Define all available rooms (example)
-                const allRooms = ["UB0000", "07B-15C", "UB0001", "UB0002", "UB0003"];
+                const allRooms = [];
 
                 // Find occupied rooms at the selected day and time
                 const occupiedRooms = scheduleData
