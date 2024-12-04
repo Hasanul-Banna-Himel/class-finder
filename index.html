@@ -4,7 +4,59 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Available Rooms Checker</title>
-    <link rel="stylesheet" href="styles.css">
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 20px;
+        }
+
+        header {
+            text-align: center;
+            margin-bottom: 20px;
+        }
+
+        main {
+            max-width: 600px;
+            margin: 0 auto;
+        }
+
+        .dropdown-container {
+            margin-bottom: 15px;
+        }
+
+        label {
+            font-weight: bold;
+        }
+
+        select, button {
+            padding: 10px;
+            margin-top: 5px;
+            width: 100%;
+        }
+
+        button {
+            background-color: #4CAF50;
+            color: white;
+            border: none;
+            cursor: pointer;
+        }
+
+        button:hover {
+            background-color: #45a049;
+        }
+
+        #result {
+            margin-top: 20px;
+            font-size: 1.2em;
+            color: #333;
+        }
+
+        footer {
+            text-align: center;
+            margin-top: 30px;
+            color: #777;
+        }
+    </style>
 </head>
 <body>
     <header>
@@ -13,7 +65,7 @@
 
     <main>
         <div class="dropdown-container">
-            <label for="dropdown1">Select day:</label>
+            <label for="dropdown1">Select Day:</label>
             <select id="dropdown1">
                 <option value="Saturday">Saturday</option>
                 <option value="Sunday">Sunday</option>
@@ -56,8 +108,12 @@
                 const response = await fetch('output.json');
                 const scheduleData = await response.json();
 
-                // Define all available rooms (example)
-                const allRooms = [];
+                // Define all available rooms (example list provided)
+                const allRooms = [
+                    "07H-29C", "12A-07C", "09H-35C", "07A-01C", "10F-31C", "10B-17C", 
+                    "09H-32C", "07A-06C", "09A-07C", "10B-18C", "09D-17C", "09A-01C",
+                    "08F-20C", "07A-07C", "10H-40C" // Add more rooms as necessary
+                ];
 
                 // Find occupied rooms at the selected day and time
                 const occupiedRooms = scheduleData
@@ -72,9 +128,9 @@
 
                 // Display available rooms or a message if none are available
                 if (availableRooms.length > 0) {
-                    resultDiv.innerText = `Available rooms: ${availableRooms.join(", ")}`;
+                    resultDiv.innerHTML = `<strong>Available rooms:</strong> ${availableRooms.join(", ")}`;
                 } else {
-                    resultDiv.innerText = "No rooms are available at this time.";
+                    resultDiv.innerHTML = "<strong>No rooms are available at this time.</strong>";
                 }
             } catch (error) {
                 console.error("Error fetching schedule:", error);
